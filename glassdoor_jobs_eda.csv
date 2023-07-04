@@ -1,0 +1,616 @@
+Location,Headquarters,Type of ownership,Industry,Rating,Sector,hourly,avr_salary,company_txt,age,job_state,same_state,python_yn,R_yn,sql_yn,excel_yn,job_title,seniority,desc_len,num_comp,employees_num,revenue_avr
+"Albuquerque, NM","Goleta, CA",Company - Private,Aerospace & Defense,3.8,Aerospace & Defense,0,72.0,Tecolote Research,50.0,NM,False,True,False,False,True,data scientist,na,354,0,750.5,0.075
+"Linthicum, MD","Baltimore, MD",Other Organization,Health Care Services & Hospitals,3.4,Health Care,0,87.5,University of Maryland Medical System,39.0,MD,False,True,False,False,False,data scientist,na,671,0,10000.0,3.5
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,76.5,PNNL,58.0,WA,True,True,False,False,False,data scientist,na,516,3,3000.5,0.75
+"New York, NY","New York, NY",Company - Private,Advertising & Marketing,2.9,Business Services,0,114.5,Affinity Solutions,25.0,NY,True,True,False,True,True,data scientist,na,378,3,125.5,
+"Dallas, TX","Dallas, TX",Company - Public,Real Estate,3.4,Real Estate,0,95.0,CyrusOne,23.0,TX,True,True,False,True,True,data scientist,na,513,3,350.5,1.5
+"Baltimore, MD","Baltimore, MD",Company - Private,Banks & Credit Unions,4.1,Finance,0,73.5,ClearOne Advantage,15.0,MD,True,False,False,False,True,data scientist,na,269,0,750.5,
+"San Jose, CA","Seattle, WA",Company - Private,Consulting,3.8,Business Services,0,114.0,Logic20/20,18.0,CA,False,True,False,True,True,data scientist,na,556,0,350.5,0.0375
+"Rochester, NY","Rochester, NY",Hospital,Health Care Services & Hospitals,3.3,Health Care,0,61.0,Rochester Regional Health,9.0,NY,True,False,False,False,False,na,na,208,0,10000.0,0.75
+"New York, NY","New York, NY",Company - Private,Internet,4.6,Information Technology,0,140.0,<intent>,14.0,NY,True,True,False,False,False,data scientist,na,720,2,125.5,0.3
+"San Jose, CA","San Francisco, CA",Company - Private,Other Retail Stores,3.5,Retail,0,163.5,Wish,12.0,CA,False,True,False,False,False,data scientist,na,408,0,750.5,1.5
+"Chantilly, VA","Herndon, VA",Company - Public,Research & Development,4.1,Business Services,0,85.0,ManTech,55.0,VA,False,False,False,True,False,data scientist,na,459,0,7500.5,1.5
+"Plano, TX","Bentonville, AR",Company - Public,"Department, Clothing, & Shoe Stores",3.2,Retail,0,139.0,Walmart,61.0,TX,False,False,False,True,False,data scientist,na,523,3,10000.0,10.0
+"Seattle, WA","Seattle, WA",Company - Private,Advertising & Marketing,4.1,Business Services,0,65.5,Yesler,11.0,WA,True,True,False,True,True,data analyst,na,737,0,350.5,
+"Newark, NJ","Newark, NJ",Subsidiary or Business Segment,Motion Picture Production & Distribution,3.6,Media,0,146.0,Audible,28.0,NJ,True,False,False,False,True,data engineer,na,283,0,3000.5,
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,102.0,Blueprint Medicines,12.0,MA,True,False,False,False,True,na,na,524,3,125.5,0.003
+"Mountain View, CA","Mountain View, CA",Company - Private,Enterprise Software & Network Solutions,4.3,Information Technology,0,153.5,h2o.ai,12.0,CA,True,True,False,False,True,data scientist,na,612,0,350.5,
+"San Francisco, CA","San Francisco, CA",Company - Private,Enterprise Software & Network Solutions,4.2,Information Technology,0,142.5,Nuna,13.0,CA,True,False,False,True,False,data scientist,na,501,0,125.5,
+"Denver, CO","Denver, CO",Nonprofit Organization,Insurance Carriers,4.0,Insurance,0,87.5,Pinnacol Assurance,108.0,CO,True,True,False,True,True,data scientist,na,662,0,750.5,0.75
+"Seattle, WA","Seattle, WA",Company - Private,Internet,3.2,Information Technology,0,105.5,Porch,11.0,WA,True,True,False,True,False,data scientist,na,437,3,350.5,
+"Dallas, TX","Mountain View, CA",Company - Private,Insurance Agencies & Brokerages,3.9,Insurance,0,96.0,Health IQ,10.0,TX,False,False,False,False,True,data scientist,senior,1038,0,350.5,
+"Chicago, IL","New Plymouth, ID",Company - Private,Logistics & Supply Chain,3.8,Transportation & Logistics,0,112.5,Truckstop.com,28.0,IL,False,True,False,True,True,data scientist,na,868,0,750.5,
+"Louisville, KY","Peachtree City, GA",Nonprofit Organization,Logistics & Supply Chain,4.3,Transportation & Logistics,0,84.0,SMC 3,88.0,KY,False,True,False,True,True,data scientist,na,405,0,125.5,0.0175
+"Herndon, VA","Mc Lean, VA",Company - Private,Enterprise Software & Network Solutions,4.0,Information Technology,0,143.0,Novetta,11.0,VA,False,True,False,False,False,data scientist,na,545,3,750.5,0.3
+"Cambridge, MA","New York, NY",Company - Public,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,86.5,Pfizer,174.0,MA,False,True,False,False,True,data scientist,na,513,0,10000.0,10.0
+"Hillsboro, OR","San Jose, CA",Company - Private,Banks & Credit Unions,3.5,Finance,0,99.5,First Tech Federal Credit Union,71.0,OR,False,True,False,True,True,data scientist,na,593,0,3000.5,0.3
+"Worcester, MA","Worcester, MA",Company - Public,Insurance Carriers,3.7,Insurance,0,47.5,The Hanover Insurance Group,171.0,MA,True,False,False,False,True,data analyst,na,684,0,7500.5,7.5
+"Groton, CT","New York, NY",Company - Public,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,84.0,Pfizer,174.0,CT,False,False,False,False,True,data scientist,na,710,0,10000.0,10.0
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,76.5,PNNL,58.0,WA,True,True,False,False,False,data scientist,na,516,3,3000.5,0.75
+"Detroit, MI","Detroit, MI",Company - Private,Real Estate,3.6,Real Estate,0,96.0,Amrock,26.0,MI,True,True,False,True,False,data scientist,na,470,0,3000.5,0.75
+"Cambridge, MA","Basel, Switzerland",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,114.5,Novartis,27.0,MA,False,True,False,False,False,data scientist,na,688,0,10000.0,10.0
+"Sunnyvale, CA","Sunnyvale, CA",Company - Public,Telecommunications Services,3.8,Telecommunications,0,121.0,Juniper Networks,27.0,CA,True,True,False,True,True,data scientist,na,320,0,7500.5,3.5
+"Ipswich, MA","Ipswich, MA",Company - Private,Biotech & Pharmaceuticals,4.7,Biotech & Pharmaceuticals,0,112.5,New England Biolabs,49.0,MA,True,True,False,False,True,data scientist,na,287,3,350.5,
+"San Jose, CA","Chicago, IL",Company - Private,IT Services,4.2,Information Technology,0,106.0,Clarity Insights,15.0,CA,False,True,False,True,True,data analyst,na,246,0,350.5,
+"Redlands, CA","Redlands, CA",Company - Private,Computer Hardware & Software,3.5,Information Technology,0,107.0,Esri,54.0,CA,True,True,False,False,False,data scientist,na,702,1,3000.5,1.5
+"Woburn, MA","Woburn, MA",Company - Private,Aerospace & Defense,4.7,Aerospace & Defense,0,110.0,Systems & Technology Research,13.0,MA,True,True,False,True,True,data scientist,na,519,0,350.5,0.3
+"Fremont, CA","Gottingen, Germany",Company - Public,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,147.5,Sartorius,153.0,CA,False,True,False,False,True,data scientist,senior,447,0,7500.5,1.5
+"Long Beach, NY","Long Beach, NY",Company - Private,Insurance Carriers,3.5,Insurance,0,106.0,Lancer Insurance,38.0,NY,True,True,False,True,True,data engineer,na,237,0,350.5,0.3
+"San Francisco, CA","San Francisco, CA",Company - Private,IT Services,4.2,Information Technology,0,88.0,Sauce Labs,15.0,CA,True,True,False,True,True,data analyst,na,421,3,350.5,0.075
+"San Francisco, CA","San Francisco, CA",Company - Private,Enterprise Software & Network Solutions,4.2,Information Technology,0,142.5,Nuna,13.0,CA,True,False,False,False,False,data scientist,na,537,0,125.5,
+"Allendale, NJ","Shelton, CT",Company - Public,Consumer Products Manufacturing,3.4,Manufacturing,0,82.5,Edgewell Personal Care,8.0,NJ,False,False,False,False,False,na,na,485,3,7500.5,3.5
+"Bellevue, WA","Foster City, CA",Company - Public,IT Services,3.7,Information Technology,0,184.5,Visa Inc.,65.0,WA,False,True,False,True,True,data scientist,senior,1092,3,10000.0,10.0
+"Beavercreek, OH","Chantilly, VA",Company - Private,Aerospace & Defense,4.7,Aerospace & Defense,0,86.5,Centauri,24.0,OH,False,False,False,False,False,na,na,358,3,750.5,0.3
+"Peoria, IL","Deerfield, IL",Company - Public,Industrial Manufacturing,3.7,Manufacturing,0,81.0,Caterpillar,98.0,IL,False,False,False,False,False,data scientist,na,389,3,10000.0,10.0
+"Fort Lauderdale, FL","Fort Lauderdale, FL",Subsidiary or Business Segment,Advertising & Marketing,3.8,Business Services,0,91.0,Zimmerman Advertising,39.0,FL,True,True,False,True,True,data scientist,na,413,0,750.5,
+"Boston, MA","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,114.5,Liberty Mutual Insurance,111.0,MA,True,True,False,False,False,data scientist,na,610,3,10000.0,10.0
+"Huntsville, AL","Huntsville, AL",Company - Private,Aerospace & Defense,4.6,Aerospace & Defense,0,68.0,"Torch Technologies, Inc.",21.0,AL,True,True,False,False,True,data scientist,na,230,0,3000.5,0.3
+"Armonk, NY","Zurich, Switzerland",Company - Public,Insurance Agencies & Brokerages,3.7,Insurance,0,115.0,Swiss Re,160.0,NY,False,True,False,True,True,data scientist,na,684,3,10000.0,10.0
+"San Diego, CA","Falls Church, VA",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,109.5,Northrop Grumman,84.0,CA,False,False,False,True,True,data scientist,na,628,0,10000.0,10.0
+"Albuquerque, NM","Gottingen, Germany",Company - Public,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,75.5,Sartorius,153.0,NM,False,True,False,False,True,data scientist,na,452,0,7500.5,1.5
+"San Francisco, CA","Santa Clara, CA",Company - Private,Enterprise Software & Network Solutions,4.1,Information Technology,0,154.5,Netskope,11.0,CA,False,True,False,False,True,data scientist,na,588,3,750.5,
+"Saint Louis, MO","Saint Louis, MO",Company - Private,IT Services,4.7,Information Technology,0,143.5,1904labs,7.0,MO,True,True,False,True,False,data scientist,na,720,2,125.5,
+"Baltimore, MD","Baltimore, MD",Company - Private,Banks & Credit Unions,4.1,Finance,0,73.5,ClearOne Advantage,15.0,MD,True,False,False,False,True,data scientist,na,269,0,750.5,
+"Dallas, TX","Dallas, TX",Company - Public,Real Estate,3.4,Real Estate,0,95.0,CyrusOne,23.0,TX,True,True,False,True,True,data scientist,na,513,3,350.5,1.5
+"Cincinnati, OH","Cincinnati, OH",Subsidiary or Business Segment,Metals Brokers,4.4,Mining & Metals,0,107.0,The David J. Joseph Company,138.0,OH,True,True,False,True,False,data scientist,senior,688,0,350.5,
+"New York, NY","New York, NY",Company - Private,Consulting,4.3,Business Services,0,115.0,USEReady,12.0,NY,True,True,False,True,False,data scientist,na,202,0,350.5,0.0175
+"Palo Alto, CA","Palo Alto, CA",Company - Public,Financial Transaction Processing,3.8,Finance,0,139.5,Bill.com,17.0,CA,True,False,False,True,False,data scientist,senior,417,0,750.5,0.075
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,67.0,Pacific Northwest National Laboratory,58.0,WA,True,False,False,False,False,data scientist,na,687,3,3000.5,0.75
+"Coraopolis, PA","Coraopolis, PA",Company - Public,Sporting Goods Stores,3.8,Retail,0,85.0,DICK'S Sporting Goods - Corporate,75.0,PA,True,True,False,True,False,data scientist,na,345,3,10000.0,7.5
+"Framingham, MA","Framingham, MA",Company - Private,Biotech & Pharmaceuticals,2.8,Biotech & Pharmaceuticals,0,118.0,Berg Health,17.0,MA,True,True,False,True,True,data scientist,na,271,0,125.5,0.003
+"Atlanta, GA","Atlanta, GA",Company - Private,Computer Hardware & Software,4.7,Information Technology,0,79.5,Oversight Systems,20.0,GA,True,True,False,True,True,data scientist,na,419,0,125.5,0.0375
+"Vancouver, WA","Palo Alto, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,97.5,HP Inc.,84.0,WA,False,False,False,False,False,data analyst,na,290,0,10000.0,
+"Indianapolis, IN","Pleasanton, CA",Company - Private,Enterprise Software & Network Solutions,4.4,Information Technology,0,66.5,SpringML,8.0,IN,False,True,False,False,False,na,na,258,0,25.5,
+"Lake Forest, IL","Lake Forest, IL",Company - Public,Wholesale,3.6,Business Services,0,179.5,Grainger,96.0,IL,True,True,False,True,True,data scientist,na,393,0,10000.0,10.0
+"Maryland Heights, MO","San Diego, CA",Subsidiary or Business Segment,Research & Development,2.7,Business Services,0,76.0,EAG Laboratories,45.0,MO,False,False,False,False,True,na,na,354,0,750.5,0.075
+"Charlottesville, VA","Reston, VA",Company - Private,IT Services,3.9,Information Technology,0,112.0,The Buffalo Group,13.0,VA,False,True,False,True,False,data scientist,senior,603,3,750.5,0.3
+"Pittsburgh, PA","Louvain-la-Neuve, Belgium",Company - Private,Mining,3.1,Mining & Metals,0,98.0,Carmeuse,163.0,PA,False,True,False,False,False,data scientist,na,377,3,3000.5,1.5
+"Vancouver, WA","Palo Alto, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,128.0,HP Inc.,84.0,WA,False,False,False,True,False,data scientist,senior,575,0,10000.0,
+"Mountain View, CA","Mountain View, CA",Company - Private,Enterprise Software & Network Solutions,4.3,Information Technology,0,150.5,h2o.ai,12.0,CA,True,True,False,False,True,data scientist,na,522,0,350.5,
+"San Francisco, CA","San Francisco, CA",Company - Private,Health Care Services & Hospitals,3.9,Health Care,0,124.0,Nurx,7.0,CA,True,True,False,True,False,data scientist,na,630,0,125.5,0.003
+"Harrisburg, PA","Harrisburg, PA",Company - Private,Advertising & Marketing,4.7,Business Services,0,56.5,webfx.com,26.0,PA,True,False,False,False,True,data analyst,junior,626,0,350.5,0.0375
+"Laurel, MD","Laurel, MD",Nonprofit Organization,Aerospace & Defense,4.5,Aerospace & Defense,0,130.0,Johns Hopkins University Applied Physics Laboratory,81.0,MD,True,True,False,False,True,data scientist,na,416,3,7500.5,1.5
+"Chicago, IL","Chicago, IL",Company - Private,Computer Hardware & Software,4.3,Information Technology,0,77.5,Productive Edge,15.0,IL,True,False,False,True,True,data analyst,na,526,3,125.5,0.0175
+"Arlington, VA","Arlington, VA",Company - Private,Consulting,4.0,Business Services,0,87.0,Excella Consulting,21.0,VA,True,True,False,True,True,data engineer,na,559,0,350.5,0.075
+"Tacoma, WA","Tacoma, WA",Company - Private,Wholesale,4.4,Business Services,0,53.5,Gensco,75.0,WA,True,False,False,False,True,data analyst,na,247,0,750.5,0.3
+"Plano, TX","Bentonville, AR",Company - Public,"Department, Clothing, & Shoe Stores",3.2,Retail,0,139.0,Walmart,61.0,TX,False,False,False,True,False,data scientist,na,523,3,10000.0,10.0
+"San Jose, CA","Seattle, WA",Company - Private,Consulting,3.8,Business Services,0,114.0,Logic20/20,18.0,CA,False,True,False,True,True,data scientist,na,556,0,350.5,0.0375
+"Miami, FL","Miami, FL",Company - Private,Enterprise Software & Network Solutions,4.2,Information Technology,0,85.5,goTRG,15.0,FL,True,True,False,True,True,data scientist,na,468,0,750.5,0.3
+"Huntsville, AL","Chantilly, VA",Company - Private,IT Services,4.5,Information Technology,0,48.0,NMR Consulting,27.0,AL,False,False,False,True,True,na,na,315,0,125.5,0.0375
+"New Orleans, LA","New Orleans, LA",Company - Private,Enterprise Software & Network Solutions,3.5,Information Technology,0,48.0,iSeatz,24.0,LA,True,False,False,True,True,data analyst,na,412,0,125.5,
+"San Francisco, CA","San Francisco, CA",Company - Public,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,174.0,Nektar Therapeutics,33.0,CA,True,False,False,False,True,na,senior,621,3,350.5,0.3
+"Atlanta, GA","Chicago, IL",Company - Public,Financial Analytics & Research,3.9,Finance,0,85.0,TransUnion,55.0,GA,False,True,False,True,False,data scientist,na,340,0,7500.5,1.5
+"Landover, MD","Vienna, VA",Company - Private,IT Services,4.7,Information Technology,0,106.5,IT Concepts,20.0,MD,False,False,False,False,False,na,na,405,0,125.5,0.0175
+"Patuxent River, MD","Atlanta, GA",Company - Private,IT Services,4.2,Information Technology,0,72.5,Scientific Research Corporation,35.0,MD,False,False,False,False,True,data analyst,na,333,0,3000.5,0.3
+"Suitland, MD","Fairfax, VA",Subsidiary or Business Segment,IT Services,3.4,Information Technology,0,85.5,General Dynamics Information Technology,27.0,MD,False,False,False,False,False,na,na,561,3,10000.0,10.0
+"McLean, VA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,97.5,MITRE,65.0,VA,False,True,False,True,True,data scientist,na,733,3,7500.5,1.5
+"Fort Belvoir, VA","Reston, VA",Company - Private,IT Services,3.9,Information Technology,0,99.0,The Buffalo Group,13.0,VA,False,True,False,False,True,data scientist,na,342,3,750.5,0.3
+"Milwaukee, WI","Boston, MA",Company - Private,Insurance Carriers,3.1,Insurance,0,56.5,DentaQuest,22.0,WI,False,False,False,True,True,data analyst,na,618,3,3000.5,3.5
+"Silver Spring, MD","Silver Spring, MD",Company - Private,IT Services,4.1,Information Technology,0,133.0,Redjack,16.0,MD,True,True,False,False,False,data scientist,senior,758,0,25.5,
+"New York, NY","New York, NY",Company - Private,Research & Development,3.8,Business Services,0,121.0,7Park Data,11.0,NY,True,True,False,False,False,data scientist,na,471,0,125.5,
+"Syracuse, NY","Syracuse, NY",Company - Private,Security Services,4.7,Business Services,0,85.5,Rapid Response Monitoring,31.0,NY,True,True,False,True,False,data scientist,na,454,3,750.5,
+"Houston, TX","New York, NY",Subsidiary or Business Segment,Education Training Services,4.3,Education,0,87.5,Trilogy Ed,8.0,TX,False,True,False,True,False,data scientist,na,563,3,3000.5,
+"Charlotte, NC","Richmond, VA",Company - Private,IT Services,3.9,Information Technology,0,95.5,CapTech,26.0,NC,False,True,False,True,False,data engineer,na,779,3,3000.5,0.3
+"Southfield, MI","Detroit, MI",Company - Public,Transportation Equipment Manufacturing,3.3,Manufacturing,0,104.5,American Axle & Manufacturing,29.0,MI,False,True,False,True,True,data scientist,senior,688,0,10000.0,7.5
+"Matawan, NJ","Pompano Beach, FL",Company - Private,Computer Hardware & Software,4.7,Information Technology,0,56.5,CentralReach,11.0,NJ,False,False,False,True,True,data analyst,na,798,3,350.5,
+"Phoenix, AZ","Phoenix, AZ",Company - Private,Enterprise Software & Network Solutions,4.3,Information Technology,0,55.0,Integrate,13.0,AZ,True,False,False,True,True,data analyst,senior,468,0,350.5,0.0375
+"Omaha, NE","Omaha, NE",Hospital,Health Care Services & Hospitals,2.9,Health Care,0,61.5,Boys Town Hospital,46.0,NE,True,False,False,False,True,na,na,683,3,3000.5,
+"San Francisco, CA","San Francisco, CA",Company - Private,Computer Hardware & Software,4.5,Information Technology,0,157.0,Demandbase,17.0,CA,True,False,False,False,False,data scientist,na,767,3,350.5,0.3
+"New York, NY","New York, NY",Company - Private,Internet,4.6,Information Technology,0,140.0,<intent>,14.0,NY,True,True,False,False,False,data scientist,na,720,2,125.5,0.3
+"San Francisco, CA","San Francisco, CA",Company - Private,Enterprise Software & Network Solutions,3.2,Information Technology,0,132.5,Formation,8.0,CA,True,False,False,False,True,data scientist,na,453,0,125.5,
+"San Francisco, CA","San Rafael, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,108.0,Autodesk,41.0,CA,False,True,False,True,False,data engineer,na,488,0,7500.5,3.5
+"Rockville, MD","Rockville, MD",Company - Private,Health Care Services & Hospitals,2.8,Health Care,0,107.5,DrFirst,23.0,MD,True,True,False,False,False,data scientist,na,604,0,350.5,
+"Minneapolis, MN","Minneapolis, MN",Company - Private,Consulting,4.7,Business Services,0,95.0,Object Partners,27.0,MN,True,False,False,True,False,data engineer,na,471,2,125.5,0.0375
+"Los Angeles, CA","Los Angeles, CA",Nonprofit Organization,Health Care Services & Hospitals,3.0,Health Care,0,119.5,L.A. Care Health Plan,26.0,CA,True,True,False,True,False,data scientist,na,528,3,3000.5,
+"Charlotte, NC","Fort Mill, SC",Company - Private,Advertising & Marketing,3.2,Business Services,0,134.0,Red Ventures,23.0,NC,False,False,False,True,False,data engineer,senior,389,3,3000.5,1.5
+"Cambridge, MA","Cambridge, MA",Company - Private,Enterprise Software & Network Solutions,4.4,Information Technology,0,100.5,Quick Base,24.0,MA,True,True,False,True,True,data scientist,na,594,0,350.5,
+"Cincinnati, OH","Cincinnati, OH",Company - Public,TV Broadcast & Cable Networks,3.5,Media,0,107.5,The E.W. Scripps Company,145.0,OH,True,True,False,True,False,data scientist,na,1043,0,3000.5,0.75
+"Washington, DC","Washington, DC",Company - Private,Internet,4.0,Information Technology,0,122.0,Upside Business Travel,8.0,DC,True,True,False,True,False,data engineer,na,643,0,125.5,
+"Chicago, IL","Chicago, IL",Company - Public,Real Estate,4.3,Real Estate,0,92.5,Equity Residential,30.0,IL,True,True,False,True,True,data engineer,na,1192,3,3000.5,3.5
+"Baltimore, MD","Baltimore, MD",Company - Private,Research & Development,2.3,Business Services,0,62.0,Synagro,37.0,MD,True,False,False,True,True,data analyst,na,254,0,750.5,0.3
+"Santa Fe Springs, Los Angeles, CA","Santa Fe Springs, CA",Company - Private,Industrial Manufacturing,3.6,Manufacturing,0,107.5,Accuride International,57.0,CA,False,False,False,False,True,data scientist,na,568,0,3000.5,0.3
+"Ashburn, VA","Foster City, CA",Company - Public,IT Services,3.7,Information Technology,0,89.5,Visa Inc.,65.0,VA,False,True,False,True,False,data scientist,senior,716,3,10000.0,10.0
+"Chicago, IL","Chicago, IL",Company - Private,Consulting,4.4,Business Services,0,81.0,Maven Wave Partners,15.0,IL,True,True,False,True,True,data scientist,na,479,0,350.5,0.075
+"Herndon, VA","Mc Lean, VA",Company - Private,Enterprise Software & Network Solutions,4.0,Information Technology,0,147.0,Novetta,11.0,VA,False,True,False,False,False,data scientist,senior,530,3,750.5,0.3
+"Fort Worth, TX","Fort Worth, TX",Company - Private,Brokerage Services,3.2,Finance,0,85.0,"First Command Financial Services, Inc.",65.0,TX,True,True,False,True,True,data scientist,na,554,3,3000.5,0.3
+"Valencia, CA","West Hills, CA",Company - Private,Consumer Products Manufacturing,2.9,Manufacturing,0,81.5,Pharmavite,52.0,CA,False,False,False,False,True,na,na,802,2,3000.5,1.5
+"Novato, CA","San Rafael, CA",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,168.0,BioMarin Pharmaceutical,26.0,CA,False,False,False,False,True,na,na,836,3,3000.5,0.75
+"Aurora, CO","Aurora, CO",Company - Private,Aerospace & Defense,4.3,Aerospace & Defense,0,100.5,Stratagem Group,16.0,CO,True,True,False,True,True,machine learning,na,520,0,25.5,
+"New York, NY","London, United Kingdom",Company - Private,Consulting,3.4,Business Services,0,97.0,PA Consulting,80.0,NY,False,True,False,True,True,data scientist,na,1101,3,3000.5,0.3
+"Chantilly, VA","Herndon, VA",Company - Public,Research & Development,4.1,Business Services,0,85.0,ManTech,55.0,VA,False,False,False,True,False,data scientist,na,459,0,7500.5,1.5
+"Mountain View, CA","Mountain View, CA",Company - Private,Enterprise Software & Network Solutions,4.3,Information Technology,0,153.5,h2o.ai,12.0,CA,True,True,False,False,True,data scientist,na,612,0,350.5,
+"Chicago, IL","Chicago, IL",Company - Private,Computer Hardware & Software,4.3,Information Technology,0,100.0,Productive Edge,15.0,IL,True,False,False,True,True,data engineer,na,434,3,125.5,0.0175
+"Denver, CO","Denver, CO",Company - Private,Travel Agencies,3.7,Travel & Tourism,0,105.0,Evolve Vacation Rental,12.0,CO,True,True,False,True,False,data scientist,senior,511,0,350.5,
+"San Francisco, CA","San Francisco, CA",Company - Private,Real Estate,4.3,Real Estate,0,103.5,Maximus Real Estate Partners,10.0,CA,True,False,False,True,True,data analyst,na,250,3,125.5,
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,124.0,Software Engineering Institute,39.0,PA,True,True,False,False,True,na,senior,798,0,750.5,
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,67.0,PNNL,58.0,WA,True,True,False,False,False,data scientist,na,947,3,3000.5,0.75
+"Washington, DC","Seattle, WA",Company - Private,IT Services,3.9,Information Technology,0,87.0,AVANADE,23.0,DC,False,False,False,False,False,data engineer,na,459,3,10000.0,3.5
+"Chicago, IL","Mountain View, CA",Company - Private,Enterprise Software & Network Solutions,4.3,Information Technology,0,137.5,h2o.ai,12.0,IL,False,True,False,False,True,data scientist,na,522,0,350.5,
+"Cincinnati, OH","Cincinnati, OH",Company - Private,Advertising & Marketing,3.8,Business Services,0,100.0,PatientPoint,36.0,OH,True,True,False,True,True,data scientist,senior,781,3,350.5,0.3
+"Chattanooga, TN","Chattanooga, TN",Nonprofit Organization,Insurance Carriers,3.8,Insurance,0,106.5,BlueCross BlueShield of Tennessee,78.0,TN,True,False,False,True,True,data engineer,na,795,0,7500.5,7.5
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,98.5,PNNL,58.0,WA,True,False,False,False,False,data scientist,senior,657,3,3000.5,0.75
+"Indianapolis, IN","Indianapolis, IN",Company - Private,Consulting,4.4,Business Services,0,106.5,KSM Consulting,15.0,IN,True,True,False,True,False,data scientist,senior,619,0,125.5,
+"Cambridge, MA","Cambridge, MA",Company - Private,Internet,3.9,Information Technology,0,84.5,Cogo Labs,18.0,MA,True,True,False,True,False,data engineer,na,304,0,125.5,
+"Ewing, NJ","Ewing, NJ",Company - Public,Consumer Products Manufacturing,3.4,Manufacturing,0,109.5,Church & Dwight,177.0,NJ,True,True,False,False,True,manager,na,428,0,3000.5,3.5
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,164.0,MassMutual,172.0,MA,False,True,False,True,False,data scientist,senior,618,0,7500.5,10.0
+"South San Francisco, CA","South San Francisco, CA",Subsidiary or Business Segment,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,169.0,Genentech,47.0,CA,True,True,False,True,True,data scientist,senior,954,0,10000.0,10.0
+"Cupertino, CA","Sunnyvale, CA",Company - Public,Telecommunications Services,3.8,Telecommunications,0,142.0,Juniper Networks,27.0,CA,False,True,False,False,True,data scientist,senior,341,0,7500.5,3.5
+"Frederick, MD","Frederick, MD",Company - Private,Insurance Carriers,3.8,Insurance,0,107.0,Legal & General America,42.0,MD,True,True,False,True,True,data scientist,na,416,0,750.5,0.75
+"San Jose, CA","San Jose, CA",Company - Public,Computer Hardware & Software,3.5,Information Technology,0,171.5,Western Digital,53.0,CA,True,True,False,True,False,data scientist,na,620,2,10000.0,10.0
+"Dallas, TX","Mountain View, CA",Company - Private,Insurance Agencies & Brokerages,3.9,Insurance,0,96.0,Health IQ,10.0,TX,False,False,False,False,True,data scientist,senior,1038,0,350.5,
+"San Francisco, CA","San Francisco, CA",Company - Private,Enterprise Software & Network Solutions,4.2,Information Technology,0,142.5,Nuna,13.0,CA,True,False,False,True,False,data scientist,na,501,0,125.5,
+"Marlborough, MA","Marlborough, MA",Company - Private,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,145.0,Sunovion,13.0,MA,True,True,False,False,True,na,senior,718,3,3000.5,1.5
+"Herndon, VA","Herndon, VA",Nonprofit Organization,Colleges & Universities,2.9,Education,0,61.5,National Student Clearinghouse,30.0,VA,True,True,False,True,True,data analyst,senior,825,3,350.5,0.0375
+"Madison, WI","Madison, WI",Government,Investment Banking & Asset Management,2.7,Finance,0,120.0,State of Wisconsin Investment Board,72.0,WI,True,True,False,True,False,data scientist,na,917,0,125.5,0.075
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,4.4,Biotech & Pharmaceuticals,0,62.0,Rubius Therapeutics,10.0,MA,True,False,False,False,False,na,na,762,0,350.5,0.3
+"San Francisco, CA","San Rafael, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,150.5,Autodesk,41.0,CA,False,True,False,True,False,data scientist,senior,343,0,7500.5,3.5
+"Dearborn, MI","Detroit, MI",Company - Private,Advertising & Marketing,4.3,Business Services,0,87.5,OneMagnify,56.0,MI,False,False,False,True,True,manager,na,270,0,350.5,
+"San Rafael, CA","San Rafael, CA",Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",3.6,Retail,0,51.5,Vionic Group,17.0,CA,True,False,False,False,True,data analyst,na,633,0,125.5,0.3
+"Hamilton, NJ","Hamilton, NJ",Company - Private,IT Services,2.8,Information Technology,0,77.5,Dodge Data & Analytics,9.0,NJ,True,True,False,True,True,data analyst,senior,825,0,350.5,
+"Woodbridge, NJ","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,98.5,Plymouth Rock Assurance,41.0,NJ,False,False,False,True,True,data scientist,senior,432,2,3000.5,0.0175
+"Lewes, DE","Lewes, DE",Nonprofit Organization,Health Care Services & Hospitals,3.6,Health Care,1,57.2,Beebe Healthcare,88.0,DE,True,False,False,False,False,na,na,356,0,3000.5,0.3
+"New York, NY","Hamilton, Bermuda",Company - Public,Insurance Carriers,3.4,Insurance,0,147.0,Argo Group US,75.0,NY,False,True,False,True,False,data scientist,senior,713,0,3000.5,1.5
+"Springfield, MO","Springfield, MO",Company - Private,Energy,4.1,"Oil, Gas, Energy & Utilities",0,61.0,Associated Electric Cooperative,62.0,MO,True,False,False,True,True,data analyst,na,412,0,750.5,1.5
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,120.0,Software Engineering Institute,39.0,PA,True,True,False,False,False,machine learning,na,386,0,750.5,
+"Phoenix, AZ","Westlake Village, CA",Company - Public,Lending,3.2,Finance,0,124.5,PennyMac,15.0,AZ,False,True,False,True,True,data scientist,na,267,3,3000.5,0.75
+"Burbank, CA","Burbank, CA",Company - Private,Financial Analytics & Research,3.9,Finance,0,148.0,Zest AI,14.0,CA,True,True,False,False,False,data scientist,senior,335,0,125.5,0.075
+"Huntsville, AL","Arlington, VA",Company - Private,Aerospace & Defense,4.7,Aerospace & Defense,0,59.0,DECISIVE ANALYTICS Corporation,27.0,AL,False,True,False,False,True,data analyst,na,426,2,125.5,0.0375
+"Worcester, MA","Worcester, MA",Company - Public,Insurance Carriers,3.7,Insurance,0,146.5,The Hanover Insurance Group,171.0,MA,True,True,False,True,True,data scientist,senior,703,0,7500.5,7.5
+"Chicago, IL","Chicago, IL",Company - Private,Biotech & Pharmaceuticals,3.0,Biotech & Pharmaceuticals,0,133.0,Tempus Labs,8.0,IL,True,True,False,True,False,machine learning,senior,442,0,750.5,
+"Salt Lake City, UT","Salt Lake City, UT",Company - Private,Biotech & Pharmaceuticals,4.7,Biotech & Pharmaceuticals,0,140.5,Recursion Pharmaceuticals,10.0,UT,True,True,False,False,False,data scientist,senior,653,0,125.5,0.003
+"Rochester, NY","Rochester, NY",Hospital,Health Care Services & Hospitals,3.3,Health Care,0,84.5,Rochester Regional Health,9.0,NY,True,False,False,False,False,na,senior,487,0,10000.0,0.75
+"Annapolis Junction, MD","Annapolis Junction, MD",Company - Private,Computer Hardware & Software,4.0,Information Technology,0,93.5,ClearEdge,21.0,MD,True,False,False,False,True,na,na,637,0,125.5,0.0075
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,4.4,Biotech & Pharmaceuticals,0,134.5,Rubius Therapeutics,10.0,MA,True,False,False,False,False,na,senior,622,0,350.5,0.3
+"San Francisco, CA","San Francisco, CA",Company - Private,Internet,3.9,Information Technology,0,181.0,Tapjoy,16.0,CA,True,True,False,True,False,machine learning,na,275,2,350.5,0.0175
+"Rochester, NY","Rochester, NY",Hospital,Health Care Services & Hospitals,3.3,Health Care,0,84.5,Rochester Regional Health,9.0,NY,True,False,False,False,False,na,senior,481,0,10000.0,0.75
+"Highland, CA","Highland, CA",Company - Private,Gambling,3.6,"Arts, Entertainment & Recreation",0,48.5,San Manuel Casino,37.0,CA,True,False,False,True,True,data analyst,na,618,0,3000.5,0.3
+"Burleson, TX","Arlington, TX",Hospital,Health Care Services & Hospitals,4.0,Health Care,1,44.72,Texas Health Huguley Hospital,46.0,TX,False,False,False,False,False,na,na,712,0,3000.5,0.075
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,124.0,Software Engineering Institute,39.0,PA,True,False,False,False,False,machine learning,senior,733,0,750.5,
+"Scotts Valley, CA","Scotts Valley, CA",Nonprofit Organization,Health Care Services & Hospitals,3.5,Health Care,0,64.0,Central California Alliance for Health,27.0,CA,True,False,False,True,False,manager,na,575,0,750.5,0.75
+"Knoxville, TN","Knoxville, TN",Company - Private,Gas Stations,3.0,Retail,0,98.0,Pilot Flying J Travel Centers LLC,65.0,TN,True,True,False,True,False,data engineer,senior,313,3,10000.0,10.0
+"Millville, DE","Lewes, DE",Nonprofit Organization,Health Care Services & Hospitals,3.6,Health Care,1,57.2,Beebe Healthcare,88.0,DE,False,False,False,False,False,na,na,367,0,3000.5,0.3
+"Milwaukee, WI","Milwaukee, WI",Company - Private,Food & Beverage Manufacturing,3.3,Manufacturing,0,54.0,Palermo's Pizza,59.0,WI,True,False,False,False,False,na,na,371,0,750.5,
+"Rockville, MD","Rockville, MD",Company - Private,Biotech & Pharmaceuticals,2.7,Biotech & Pharmaceuticals,0,81.0,Advanced BioScience Laboratories,62.0,MD,True,False,False,False,True,na,na,514,0,350.5,0.0375
+"Chicago, IL","Chicago, IL",Company - Public,Transportation Management,3.4,Transportation & Logistics,0,107.5,Echo Global Logistics,18.0,IL,True,False,False,True,False,data engineer,senior,611,3,3000.5,3.5
+"Chicago, IL","New Plymouth, ID",Company - Private,Logistics & Supply Chain,3.8,Transportation & Logistics,0,112.5,Truckstop.com,28.0,IL,False,True,False,True,True,data scientist,na,868,0,750.5,
+"Herndon, VA","Bethesda, MD",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,89.0,Lockheed Martin,28.0,VA,False,True,False,True,True,data scientist,na,753,3,10000.0,10.0
+"New York, NY","New York, NY",Company - Private,Travel Agencies,3.8,Travel & Tourism,0,65.0,Fareportal,21.0,NY,True,False,False,True,True,data analyst,na,356,3,3000.5,3.5
+"New Orleans, LA","Washington, DC",Government,Federal Agencies,3.4,Government,1,41.6,"Veterans Affairs, Veterans Health Administration",93.0,LA,False,False,False,False,False,na,na,1255,0,10000.0,
+"Dallas, TX","Dallas, TX",Subsidiary or Business Segment,Consulting,4.3,Business Services,0,72.5,Credera,24.0,TX,True,True,False,True,True,data scientist,na,811,0,350.5,
+"Ewing, NJ","Ewing, NJ",Company - Public,Consumer Products Manufacturing,3.4,Manufacturing,0,109.5,Church & Dwight,177.0,NJ,True,True,False,False,True,manager,na,428,0,3000.5,3.5
+"Cambridge, MA","Cambridge, MA",Company - Private,Internet,3.9,Information Technology,0,84.5,Cogo Labs,18.0,MA,True,True,False,True,False,data engineer,na,304,0,125.5,
+"Chicago, IL","Chicago, IL",Company - Private,Advertising & Marketing,3.4,Business Services,0,87.5,Spectrum Communications and Consulting,31.0,IL,True,False,False,True,False,data scientist,na,653,0,125.5,0.0175
+"San Mateo, CA","Seoul, South Korea",Company - Public,Video Games,3.1,Media,0,92.5,NCSOFT,26.0,CA,False,True,True,True,True,data analyst,na,442,3,3000.5,10.0
+"McLean, VA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,81.5,MITRE,65.0,VA,False,True,False,False,False,data scientist,na,431,3,7500.5,1.5
+"Dayton, OH","Dayton, OH",Company - Private,Trucking,4.3,Transportation & Logistics,0,79.0,"Dayton Freight Lines, Inc.",42.0,OH,True,False,False,True,False,na,na,244,2,3000.5,
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,164.0,MassMutual,172.0,MA,False,True,False,True,False,data scientist,senior,618,0,7500.5,10.0
+"South San Francisco, CA","South San Francisco, CA",Subsidiary or Business Segment,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,169.0,Genentech,47.0,CA,True,True,False,True,True,data scientist,senior,954,0,10000.0,10.0
+"Cupertino, CA","Sunnyvale, CA",Company - Public,Telecommunications Services,3.8,Telecommunications,0,142.0,Juniper Networks,27.0,CA,False,True,False,False,True,data scientist,senior,341,0,7500.5,3.5
+"San Francisco, CA","San Francisco, CA",Company - Private,Enterprise Software & Network Solutions,3.4,Information Technology,0,69.0,TrueAccord,10.0,CA,True,True,False,True,True,data analyst,na,799,0,125.5,
+"Meridian, ID","Akron, OH",Company - Private,Computer Hardware & Software,4.0,Information Technology,0,49.0,DRB Systems,39.0,ID,False,True,True,True,True,data analyst,na,393,0,350.5,0.075
+"San Jose, CA","San Jose, CA",Company - Public,Computer Hardware & Software,3.5,Information Technology,0,171.5,Western Digital,53.0,CA,True,True,False,True,False,data scientist,na,620,2,10000.0,10.0
+"Frederick, MD","Frederick, MD",Company - Private,Insurance Carriers,3.8,Insurance,0,107.0,Legal & General America,42.0,MD,True,True,False,True,True,data scientist,na,416,0,750.5,0.75
+"Cherry Hill, NJ","Cherry Hill, NJ",Company - Private,Enterprise Software & Network Solutions,3.7,Information Technology,0,59.0,Corcentric,27.0,NJ,True,False,False,False,True,data analyst,na,407,0,350.5,
+"Cambridge, MA","New York, NY",Company - Public,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,86.5,Pfizer,174.0,MA,False,True,False,False,True,data scientist,na,513,0,10000.0,10.0
+"Louisville, KY","Peachtree City, GA",Nonprofit Organization,Logistics & Supply Chain,4.3,Transportation & Logistics,0,84.0,SMC 3,88.0,KY,False,True,False,True,True,data scientist,na,405,0,125.5,0.0175
+"New York, NY","Cincinnati, OH",Company - Private,Consulting,4.7,Business Services,0,114.5,Systems Evolution Inc.,31.0,NY,False,True,False,True,True,na,na,581,0,350.5,0.075
+"Marlborough, MA","Marlborough, MA",Company - Private,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,145.0,Sunovion,13.0,MA,True,True,False,False,True,na,senior,718,3,3000.5,1.5
+"Nashville, TN","San Francisco, CA",Company - Public,Internet,4.4,Information Technology,0,88.0,Eventbrite,17.0,TN,False,True,False,True,True,data engineer,na,659,3,3000.5,0.3
+"Chicago, IL","Chicago, IL",Company - Private,Internet,4.1,Information Technology,0,100.0,Centro,22.0,IL,True,True,False,True,False,data engineer,na,741,3,750.5,0.3
+"Herndon, VA","Herndon, VA",Nonprofit Organization,Colleges & Universities,2.9,Education,0,61.5,National Student Clearinghouse,30.0,VA,True,True,False,True,True,data analyst,senior,825,3,350.5,0.0375
+"Portland, OR","Reston, VA",Company - Public,Advertising & Marketing,2.5,Business Services,0,96.5,comScore,24.0,OR,False,True,False,True,False,data scientist,na,616,3,3000.5,1.5
+"Minneapolis, MN","Chicago, IL",Company - Private,Consulting,4.2,Business Services,0,76.0,SullivanCotter,31.0,MN,False,True,False,True,True,data analyst,na,329,3,350.5,
+"Austin, TX","Austin, TX",Company - Private,Advertising & Marketing,4.3,Business Services,0,83.5,Bakery Agency,13.0,TX,True,True,False,True,True,data scientist,na,428,0,25.5,
+"Madison, WI","Madison, WI",Government,Investment Banking & Asset Management,2.7,Finance,0,120.0,State of Wisconsin Investment Board,72.0,WI,True,True,False,True,False,data scientist,na,917,0,125.5,0.075
+"South San Francisco, CA","South San Francisco, CA",Subsidiary or Business Segment,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,163.0,Genentech,47.0,CA,True,False,False,True,True,data scientist,na,631,0,10000.0,10.0
+"Providence, RI","Providence, RI",Nonprofit Organization,Insurance Carriers,3.4,Insurance,0,100.0,Blue Cross & Blue Shield of Rhode Island,84.0,RI,True,False,False,True,False,data analyst,senior,630,1,750.5,
+"Omaha, NE","Omaha, NE",Nonprofit Organization,Social Assistance,3.8,Non-Profit,0,52.5,Boys Town,106.0,NE,True,False,False,False,True,na,na,673,3,3000.5,
+"Washington, DC","Washington, DC",Nonprofit Organization,Health Care Services & Hospitals,3.3,Health Care,0,50.0,The HSC Health Care System,140.0,DC,True,False,False,True,True,data analyst,junior,591,0,750.5,
+"Austin, TX","Alexandria, VA",Company - Private,Consulting,3.4,Business Services,0,93.0,Pro-Sphere Tek,17.0,TX,False,True,False,True,False,data engineer,na,516,0,350.5,0.075
+"Cincinnati, OH","Lincoln, NE",Company - Private,Insurance Agencies & Brokerages,3.0,Insurance,0,94.5,Ameritas Life Insurance Corp,136.0,OH,False,True,False,True,False,data scientist,na,477,0,3000.5,3.5
+"San Francisco, CA","San Rafael, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,150.5,Autodesk,41.0,CA,False,True,False,True,False,data scientist,senior,343,0,7500.5,3.5
+"Raleigh, NC","Richmond, VA",Company - Public,Insurance Carriers,3.7,Insurance,0,102.0,Genworth,19.0,NC,False,True,False,True,True,data scientist,na,789,3,3000.5,7.5
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,4.4,Biotech & Pharmaceuticals,0,62.0,Rubius Therapeutics,10.0,MA,True,False,False,False,False,na,na,762,0,350.5,0.3
+"Dearborn, MI","Detroit, MI",Company - Private,Advertising & Marketing,4.3,Business Services,0,87.5,OneMagnify,56.0,MI,False,False,False,True,True,manager,na,270,0,350.5,
+"Groton, CT","New York, NY",Company - Public,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,84.0,Pfizer,174.0,CT,False,False,False,False,True,data scientist,na,710,0,10000.0,10.0
+"Herndon, VA","Mc Lean, VA",Company - Private,Enterprise Software & Network Solutions,4.0,Information Technology,0,143.0,Novetta,11.0,VA,False,True,False,False,False,data scientist,na,545,3,750.5,0.3
+"Oakland, CA","Santa Ana, CA",Company - Private,Insurance Carriers,3.9,Insurance,0,108.0,Trace Data,23.0,CA,False,True,False,True,False,data scientist,na,439,0,125.5,0.0175
+"San Rafael, CA","San Rafael, CA",Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",3.6,Retail,0,51.5,Vionic Group,17.0,CA,True,False,False,False,True,data analyst,na,633,0,125.5,0.3
+"Hamilton, NJ","Hamilton, NJ",Company - Private,IT Services,2.8,Information Technology,0,77.5,Dodge Data & Analytics,9.0,NJ,True,True,False,True,True,data analyst,senior,825,0,350.5,
+"Boise, ID","Boise, ID",Company - Private,Investment Banking & Asset Management,4.2,Finance,0,63.5,Clearwater Analytics,19.0,ID,True,False,False,True,True,data analyst,na,360,0,750.5,0.075
+"Oak Ridge, TN","Lynchburg, VA",Company - Public,Aerospace & Defense,3.5,Aerospace & Defense,0,96.0,BWX Technologies,173.0,TN,False,True,False,False,False,data scientist,na,496,0,7500.5,0.75
+"Agoura Hills, CA","Westlake Village, CA",Company - Public,Lending,3.2,Finance,0,101.0,PennyMac,15.0,CA,False,True,False,True,True,data engineer,na,344,3,3000.5,0.75
+"Woodbridge, NJ","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,98.5,Plymouth Rock Assurance,41.0,NJ,False,False,False,True,True,data scientist,senior,432,2,3000.5,0.0175
+"Pella, IA","Pella, IA",Company - Private,Industrial Manufacturing,3.9,Manufacturing,0,77.5,Vermeer,75.0,IA,True,False,False,True,True,data engineer,na,491,3,3000.5,1.5
+"Lewes, DE","Lewes, DE",Nonprofit Organization,Health Care Services & Hospitals,3.6,Health Care,1,57.2,Beebe Healthcare,88.0,DE,True,False,False,False,False,na,na,356,0,3000.5,0.3
+"New York, NY","Hamilton, Bermuda",Company - Public,Insurance Carriers,3.4,Insurance,0,147.0,Argo Group US,75.0,NY,False,True,False,True,False,data scientist,senior,713,0,3000.5,1.5
+"San Ramon, CA","Mumbai, India",Company - Public,IT Services,3.5,Information Technology,0,90.0,L&T Infotech,26.0,CA,False,True,False,True,True,data scientist,na,183,3,10000.0,
+"Red Bank, NJ","Toms River, NJ",Company - Public,Banks & Credit Unions,4.3,Finance,0,58.0,OceanFirst Financial,121.0,NJ,False,False,False,True,False,data analyst,na,845,0,750.5,7.5
+"Springfield, MO","Springfield, MO",Company - Private,Energy,4.1,"Oil, Gas, Energy & Utilities",0,61.0,Associated Electric Cooperative,62.0,MO,True,False,False,True,True,data analyst,na,412,0,750.5,1.5
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,120.0,Software Engineering Institute,39.0,PA,True,True,False,False,False,machine learning,na,386,0,750.5,
+"Hillsboro, OR","San Jose, CA",Company - Private,Banks & Credit Unions,3.5,Finance,0,99.5,First Tech Federal Credit Union,71.0,OR,False,True,False,True,True,data scientist,na,593,0,3000.5,0.3
+"Detroit, MI","Detroit, MI",Company - Private,Real Estate,3.6,Real Estate,0,96.0,Amrock,26.0,MI,True,True,False,True,False,data scientist,na,470,0,3000.5,0.75
+"Washington, DC","Washington, DC",Company - Public,Biotech & Pharmaceuticals,2.3,Biotech & Pharmaceuticals,0,101.0,Vanda Pharmaceuticals,20.0,DC,True,True,False,True,True,data scientist,na,221,0,350.5,0.3
+"Burbank, CA","Burbank, CA",Company - Private,Financial Analytics & Research,3.9,Finance,0,148.0,Zest AI,14.0,CA,True,True,False,False,False,data scientist,senior,335,0,125.5,0.075
+"Fort Belvoir, VA","Mc Lean, VA",Company - Private,Enterprise Software & Network Solutions,4.0,Information Technology,0,142.0,Novetta,11.0,VA,False,True,False,True,False,data scientist,senior,665,3,750.5,0.3
+"Palo Alto, CA","Palo Alto, CA",Company - Private,K-12 Education,4.1,Education,0,169.0,CK-12 Foundation,16.0,CA,True,False,False,True,True,data scientist,senior,705,0,25.5,
+"Phoenix, AZ","Westlake Village, CA",Company - Public,Lending,3.2,Finance,0,124.5,PennyMac,15.0,AZ,False,True,False,True,True,data scientist,na,267,3,3000.5,0.75
+"Huntsville, AL","Arlington, VA",Company - Private,Aerospace & Defense,4.7,Aerospace & Defense,0,59.0,DECISIVE ANALYTICS Corporation,27.0,AL,False,True,False,False,True,data analyst,na,426,2,125.5,0.0375
+"San Diego, CA","Waltham, MA",Company - Private,Consulting,4.2,Business Services,0,52.5,Opinion Dynamics,36.0,CA,False,True,False,True,False,na,na,521,0,125.5,0.0175
+"Houston, TX","Reston, VA",Company - Private,IT Services,4.6,Information Technology,0,75.5,Applied Information Sciences,41.0,TX,False,False,False,True,False,data engineer,na,299,0,750.5,0.075
+"Armonk, NY","Zurich, Switzerland",Company - Public,Insurance Agencies & Brokerages,3.7,Insurance,0,139.0,Swiss Re,160.0,NY,False,True,False,True,True,data scientist,senior,711,3,10000.0,10.0
+"Columbia, SC","Charlotte, NC",Company - Private,Architectural & Engineering Services,4.4,Business Services,0,60.5,WK Dickson,94.0,SC,False,False,False,False,False,na,na,249,3,350.5,0.0375
+"Worcester, MA","Worcester, MA",Company - Public,Insurance Carriers,3.7,Insurance,0,146.5,The Hanover Insurance Group,171.0,MA,True,True,False,True,True,data scientist,senior,703,0,7500.5,7.5
+"South San Francisco, CA","South San Francisco, CA",Subsidiary or Business Segment,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,125.0,Genentech,47.0,CA,True,False,False,False,True,na,na,520,0,10000.0,10.0
+"Springfield, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,81.0,MassMutual,172.0,MA,True,True,False,True,False,data analyst,senior,703,0,7500.5,10.0
+"Chicago, IL","Chicago, IL",Company - Private,Biotech & Pharmaceuticals,3.0,Biotech & Pharmaceuticals,0,133.0,Tempus Labs,8.0,IL,True,True,False,True,False,machine learning,senior,442,0,750.5,
+"Washington, DC","Fairfax, VA",Subsidiary or Business Segment,IT Services,3.4,Information Technology,0,77.0,General Dynamics Information Technology,27.0,DC,False,False,False,True,True,data analyst,na,461,3,10000.0,10.0
+"Herndon, VA","Herndon, VA",Company - Public,Research & Development,4.1,Business Services,0,92.0,ManTech,55.0,VA,True,False,False,True,False,data engineer,na,458,0,7500.5,1.5
+"Cambridge, MA","Basel, Switzerland",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,121.0,Novartis,27.0,MA,False,False,False,False,False,data scientist,senior,292,0,10000.0,10.0
+"San Francisco, CA","San Rafael, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,162.5,Autodesk,41.0,CA,False,True,False,True,True,data engineer,senior,345,0,7500.5,3.5
+"San Antonio, TX","San Antonio, TX",Nonprofit Organization,Research & Development,3.9,Business Services,0,60.0,Southwest Research Institute,76.0,TX,True,False,False,False,False,na,na,270,3,3000.5,0.75
+"Indianapolis, IN","Pleasanton, CA",Company - Private,Enterprise Software & Network Solutions,4.4,Information Technology,0,90.5,SpringML,8.0,IN,False,True,False,False,False,data engineer,na,274,0,25.5,
+"Cambridge, MA","Basel, Switzerland",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,114.5,Novartis,27.0,MA,False,True,False,False,False,data scientist,na,688,0,10000.0,10.0
+"Sunnyvale, CA","Sunnyvale, CA",Company - Public,Telecommunications Services,3.8,Telecommunications,0,121.0,Juniper Networks,27.0,CA,True,True,False,True,True,data scientist,na,320,0,7500.5,3.5
+"Portsmouth, VA","Herndon, VA",Company - Public,Research & Development,4.1,Business Services,0,70.5,ManTech,55.0,VA,False,False,False,False,False,data analyst,na,644,0,7500.5,1.5
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,76.5,PNNL,58.0,WA,True,True,False,False,False,data scientist,na,849,3,3000.5,0.75
+"Springfield, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,92.0,MassMutual,172.0,MA,True,True,False,False,True,data engineer,na,403,0,7500.5,10.0
+"Salt Lake City, UT","Salt Lake City, UT",Company - Private,Biotech & Pharmaceuticals,4.7,Biotech & Pharmaceuticals,0,140.5,Recursion Pharmaceuticals,10.0,UT,True,True,False,False,False,data scientist,senior,653,0,125.5,0.003
+"Arlington, VA","Redlands, CA",Company - Private,Computer Hardware & Software,3.5,Information Technology,0,82.0,Esri,54.0,VA,False,True,False,True,False,data scientist,na,586,1,3000.5,1.5
+"Rochester, NY","Rochester, NY",Hospital,Health Care Services & Hospitals,3.3,Health Care,0,84.5,Rochester Regional Health,9.0,NY,True,False,False,False,False,na,senior,487,0,10000.0,0.75
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,4.4,Biotech & Pharmaceuticals,0,134.5,Rubius Therapeutics,10.0,MA,True,False,False,False,False,na,senior,622,0,350.5,0.3
+"San Francisco, CA","San Francisco, CA",Company - Private,Advertising & Marketing,3.3,Business Services,0,164.5,Samba TV,15.0,CA,True,False,False,False,False,data scientist,na,245,0,350.5,
+"West Palm Beach, FL","West Palm Beach, FL",Company - Public,Telecommunications Manufacturing,3.4,Telecommunications,0,44.0,SV Microwave,32.0,FL,True,False,False,False,False,data analyst,na,305,0,350.5,0.075
+"Annapolis Junction, MD","Annapolis Junction, MD",Company - Private,Computer Hardware & Software,4.0,Information Technology,0,93.5,ClearEdge,21.0,MD,True,False,False,False,True,na,na,637,0,125.5,0.0075
+"Herndon, VA","Pleasanton, CA",Company - Private,Enterprise Software & Network Solutions,4.4,Information Technology,0,109.0,SpringML,8.0,VA,False,True,False,False,False,data engineer,na,358,0,25.5,
+"Austin, TX","Redwood City, CA",Company - Private,Computer Hardware & Software,3.8,Information Technology,0,149.5,Sumo Logic,13.0,TX,False,False,False,False,False,data engineer,na,501,3,750.5,
+"Washington, DC","Washington, DC",Company - Private,Research & Development,3.5,Business Services,0,65.5,EAB,16.0,DC,True,False,False,True,True,data engineer,na,657,0,3000.5,
+"San Jose, CA","New York, NY",Company - Private,Advertising & Marketing,2.9,Business Services,0,114.0,Affinity Solutions,25.0,CA,False,True,False,True,False,data engineer,na,476,3,125.5,
+"Exton, PA","Exton, PA",Nonprofit Organization,Banks & Credit Unions,3.9,Finance,0,49.0,Citadel Federal Credit Union,86.0,PA,True,True,False,True,False,data analyst,na,536,3,750.5,
+"Rochester, NY","Rochester, NY",Hospital,Health Care Services & Hospitals,3.3,Health Care,0,84.5,Rochester Regional Health,9.0,NY,True,False,False,False,False,na,senior,481,0,10000.0,0.75
+"Alexandria, VA","Alexandria, VA",Company - Private,IT Services,3.7,Information Technology,0,71.0,CALIBRE Systems,34.0,VA,True,False,False,True,True,data analyst,na,345,3,750.5,0.3
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,101.0,MassMutual,172.0,MA,False,False,False,False,False,director,na,580,0,7500.5,10.0
+"Redlands, CA","Redlands, CA",Company - Private,Computer Hardware & Software,3.5,Information Technology,0,107.0,Esri,54.0,CA,True,True,False,False,False,data scientist,na,702,1,3000.5,1.5
+"Ipswich, MA","Ipswich, MA",Company - Private,Biotech & Pharmaceuticals,4.7,Biotech & Pharmaceuticals,0,112.5,New England Biolabs,49.0,MA,True,True,False,False,True,data scientist,na,287,3,350.5,
+"San Francisco, CA","San Francisco, CA",Company - Private,Internet,3.9,Information Technology,0,181.0,Tapjoy,16.0,CA,True,True,False,True,False,machine learning,na,275,2,350.5,0.0175
+"Chicago, IL","Chicago, IL",Company - Public,Computer Hardware & Software,3.7,Information Technology,0,61.0,Motorola Solutions,95.0,IL,True,True,False,True,False,data analyst,na,806,3,10000.0,7.5
+"Owensboro, KY","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,103.5,Reynolds American,148.0,KY,False,False,False,False,False,na,na,673,0,7500.5,10.0
+"Springfield, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,63.0,MassMutual,172.0,MA,True,False,False,False,True,manager,na,800,0,7500.5,10.0
+"Hartford, CT","Bengaluru, India",Company - Public,IT Services,3.0,Information Technology,0,62.5,Infosys,42.0,CT,False,False,False,False,True,na,na,499,3,10000.0,10.0
+"Orange, CA","Orange, CA",Company - Private,Health Care Services & Hospitals,3.5,Health Care,0,94.5,Alignment Healthcare,10.0,CA,True,True,False,True,True,data engineer,na,824,0,750.5,
+"Highland, CA","Highland, CA",Company - Private,Gambling,3.6,"Arts, Entertainment & Recreation",0,48.5,San Manuel Casino,37.0,CA,True,False,False,True,True,data analyst,na,618,0,3000.5,0.3
+"Marlborough, MA","Marlborough, MA",Company - Private,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,154.5,Sunovion,13.0,MA,True,True,False,False,True,na,senior,597,3,3000.5,1.5
+"Burleson, TX","Arlington, TX",Hospital,Health Care Services & Hospitals,4.0,Health Care,1,44.72,Texas Health Huguley Hospital,46.0,TX,False,False,False,False,False,na,na,712,0,3000.5,0.075
+"Lenexa, KS","Chicago, IL",Company - Public,Stock Exchanges,3.7,Finance,0,87.0,Cboe Global Markets,50.0,KS,False,True,False,True,True,machine learning,na,397,0,750.5,0.75
+"New York, NY","New York, NY",Company - Private,Research & Development,3.2,Business Services,0,64.5,Guidepoint,20.0,NY,True,True,False,True,True,data engineer,na,413,3,750.5,
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,124.0,Software Engineering Institute,39.0,PA,True,False,False,False,False,machine learning,senior,733,0,750.5,
+"Chicago, IL","Chicago, IL",Company - Private,Consulting,4.4,Business Services,0,128.5,Maven Wave Partners,15.0,IL,True,True,False,True,True,data scientist,senior,480,0,350.5,0.075
+"Vail, CO","Vail, CO",Hospital,Health Care Services & Hospitals,3.7,Health Care,1,65.52000000000001,Vail Health,57.0,CO,True,False,False,False,False,na,na,253,0,750.5,0.3
+"Scotts Valley, CA","Scotts Valley, CA",Nonprofit Organization,Health Care Services & Hospitals,3.5,Health Care,0,64.0,Central California Alliance for Health,27.0,CA,True,False,False,True,False,manager,na,575,0,750.5,0.75
+"Knoxville, TN","Knoxville, TN",Company - Private,Gas Stations,3.0,Retail,0,98.0,Pilot Flying J Travel Centers LLC,65.0,TN,True,True,False,True,False,data engineer,senior,313,3,10000.0,10.0
+"San Francisco, CA","San Francisco, CA",Company - Private,Enterprise Software & Network Solutions,4.2,Information Technology,0,142.5,Nuna,13.0,CA,True,False,False,False,False,data scientist,na,537,0,125.5,
+"New York, NY","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,137.0,AstraZeneca,110.0,NY,False,True,False,False,False,data scientist,senior,438,3,10000.0,10.0
+"Denver, CO","Denver, CO",Nonprofit Organization,Insurance Carriers,4.0,Insurance,0,99.0,Pinnacol Assurance,108.0,CO,True,True,False,True,False,data engineer,na,697,0,750.5,0.75
+"Milwaukee, WI","Milwaukee, WI",Company - Private,Food & Beverage Manufacturing,3.3,Manufacturing,0,54.0,Palermo's Pizza,59.0,WI,True,False,False,False,False,na,na,371,0,750.5,
+"Natick, MA","Natick, MA",Company - Private,Computer Hardware & Software,4.4,Information Technology,0,139.5,MathWorks,39.0,MA,True,True,False,True,False,data scientist,senior,364,0,3000.5,1.5
+"Rockville, MD","Reston, VA",Company - Private,IT Services,3.4,Information Technology,0,109.0,MetroStar Systems,24.0,MD,False,False,False,False,False,data engineer,na,583,0,350.5,0.0375
+"South San Francisco, CA","San Francisco, CA",Subsidiary or Business Segment,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,73.0,Audentes Therapeutics,11.0,CA,False,False,False,False,False,na,na,500,3,350.5,
+"Rockville, MD","Rockville, MD",Company - Private,Biotech & Pharmaceuticals,2.7,Biotech & Pharmaceuticals,0,81.0,Advanced BioScience Laboratories,62.0,MD,True,False,False,False,True,na,na,514,0,350.5,0.0375
+"Millville, DE","Lewes, DE",Nonprofit Organization,Health Care Services & Hospitals,3.6,Health Care,1,57.2,Beebe Healthcare,88.0,DE,False,False,False,False,False,na,na,367,0,3000.5,0.3
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,99.5,Reynolds American,148.0,NC,True,False,False,False,True,na,na,945,0,7500.5,10.0
+"Richfield, OH","Richfield, OH",Company - Private,Insurance Carriers,3.3,Insurance,0,45.5,National Interstate,34.0,OH,True,False,False,False,False,data analyst,na,424,0,750.5,0.75
+"Indianapolis, IN","Indianapolis, IN",Company - Private,Consulting,4.5,Business Services,0,122.5,Moser Consulting,27.0,IN,True,True,False,True,False,data engineer,senior,331,0,125.5,0.0375
+"Chicago, IL","Chicago, IL",Company - Public,Financial Analytics & Research,3.9,Finance,0,140.0,TransUnion,55.0,IL,True,True,False,True,True,data scientist,senior,728,0,7500.5,1.5
+"Hampton, VA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,77.5,MITRE,65.0,VA,False,False,False,False,False,data scientist,senior,454,3,7500.5,1.5
+"Cambridge, MA","Cambridge, MA",Company - Private,Construction,3.3,"Construction, Repair & Maintenance",1,55.120000000000005,Mcphail Associates,47.0,MA,True,False,False,False,True,na,na,232,0,25.5,
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,117.5,Reynolds American,148.0,NC,True,False,False,False,True,na,senior,951,0,7500.5,10.0
+"San Diego, CA","San Diego, CA",Company - Private,Biotech & Pharmaceuticals,2.4,Biotech & Pharmaceuticals,0,70.5,Crown Bioscience,17.0,CA,True,False,False,False,False,na,na,468,0,750.5,0.075
+"Ithaca, NY","Morrisville, NC",Company - Private,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,70.0,Q2 Solutions,8.0,NY,False,False,False,False,True,na,na,609,0,3000.5,
+"Marietta, GA","Morrisville, NC",Company - Private,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,80.0,Q2 Solutions,8.0,GA,False,False,False,False,True,na,senior,582,0,3000.5,
+"Quincy, MA","Quincy, MA",Company - Private,Insurance Carriers,3.4,Insurance,0,90.0,Arbella Insurance,35.0,MA,True,False,False,True,True,data engineer,na,393,0,3000.5,0.3
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,73.5,Software Engineering Institute,39.0,PA,True,False,False,False,True,na,na,421,0,750.5,
+"Fort Lauderdale, FL","Fort Lauderdale, FL",Subsidiary or Business Segment,Advertising & Marketing,3.8,Business Services,0,91.0,Zimmerman Advertising,39.0,FL,True,True,False,True,True,data scientist,na,413,0,750.5,
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,129.5,MassMutual,172.0,MA,False,True,False,True,True,na,na,633,0,7500.5,10.0
+"New York, NY","New York, NY",Company - Public,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,167.5,Pfizer,174.0,NY,True,False,False,False,True,data scientist,senior,667,0,10000.0,10.0
+"Green Bay, WI","Green Bay, WI",Company - Public,Banks & Credit Unions,3.8,Finance,0,60.0,Associated Banc-Corp,153.0,WI,True,False,False,False,True,data analyst,na,547,3,3000.5,1.5
+"Burbank, CA","Burbank, CA",Company - Private,Financial Analytics & Research,3.9,Finance,0,180.0,Zest AI,14.0,CA,True,True,False,True,True,data scientist,senior,451,0,125.5,0.075
+"New York, NY","New York, NY",Company - Private,Travel Agencies,3.8,Travel & Tourism,0,65.0,Fareportal,21.0,NY,True,False,False,True,True,data analyst,na,366,3,3000.5,3.5
+"Durham, NC","Daly City, CA",Company - Private,Computer Hardware & Software,4.3,Information Technology,0,112.5,Genesys,33.0,NC,False,True,False,False,False,data engineer,senior,661,3,7500.5,1.5
+"Indianapolis, IN","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,51.5,Liberty Mutual Insurance,111.0,IN,False,True,False,True,True,na,na,614,3,10000.0,10.0
+"Clovis, CA","Visalia, CA",Company - Private,Architectural & Engineering Services,4.7,Business Services,0,51.0,QK,51.0,CA,False,False,False,False,True,na,na,586,0,125.5,0.0175
+"Boston, MA","Madrid, Spain",Company - Private,Banks & Credit Unions,3.1,Finance,0,62.5,Santander,167.0,MA,False,True,False,True,True,data scientist,na,407,0,10000.0,10.0
+"Chandler, AZ","Franklin, TN",Company - Public,Health Care Services & Hospitals,3.4,Health Care,0,100.0,Tivity Health,42.0,AZ,False,False,False,True,False,data engineer,senior,528,0,750.5,
+"Chantilly, VA","Washington, DC",Company - Private,IT Services,4.4,Information Technology,0,85.0,BRMi,19.0,VA,False,True,False,False,False,data engineer,na,414,0,125.5,
+"Orlando, FL","Orlando, FL",Company - Private,Computer Hardware & Software,3.9,Information Technology,0,122.0,Luminar Technologies,11.0,FL,True,True,False,False,False,data scientist,senior,770,0,350.5,
+"Chicago, IL","Jacksonville, FL",Company - Private,Enterprise Software & Network Solutions,3.9,Information Technology,0,66.5,"Emtec, Inc.",28.0,IL,False,True,False,True,False,na,na,670,0,750.5,0.3
+"Columbia, MO","Columbia, MO",Company - Private,Lending,4.7,Finance,0,70.5,Veterans United Home Loans,21.0,MO,True,False,False,True,True,na,na,412,0,3000.5,
+"Austin, TX","Austin, TX",Company - Private,Security Services,4.7,Business Services,0,138.5,Praetorian,13.0,TX,True,True,False,True,False,data engineer,senior,700,0,125.5,0.0175
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,120.5,Agios Pharmaceuticals,15.0,MA,True,False,False,False,False,na,na,343,0,750.5,0.075
+"Rockville, MD","Rockville, MD",Company - Private,Biotech & Pharmaceuticals,2.7,Biotech & Pharmaceuticals,0,81.0,Advanced BioScience Laboratories,62.0,MD,True,False,False,False,False,na,na,656,0,350.5,0.0375
+"Owensboro, KY","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,103.5,Reynolds American,148.0,KY,False,False,False,False,False,na,na,676,0,7500.5,10.0
+"Chicago, IL","Chicago, IL",Company - Public,Transportation Management,3.4,Transportation & Logistics,0,107.5,Echo Global Logistics,18.0,IL,True,False,False,True,False,data engineer,senior,611,3,3000.5,3.5
+"San Francisco, CA","Mill Valley, CA",Company - Private,Internet,4.0,Information Technology,0,162.0,Glassdoor,16.0,CA,False,True,False,False,True,data engineer,senior,580,2,3000.5,
+"Redlands, CA","Redlands, CA",Company - Private,Computer Hardware & Software,3.5,Information Technology,0,68.5,Esri,54.0,CA,True,True,False,False,True,data scientist,na,469,1,3000.5,1.5
+"Westlake, OH","New York, NY",Company - Public,Insurance Carriers,3.4,Insurance,0,110.5,Assurant,45.0,OH,False,False,False,True,True,data scientist,senior,252,3,10000.0,7.5
+"Peoria, IL","Deerfield, IL",Company - Public,Industrial Manufacturing,3.7,Manufacturing,0,81.0,Caterpillar,98.0,IL,False,False,False,False,False,data scientist,na,389,3,10000.0,10.0
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,80.5,PNNL,58.0,WA,True,False,False,False,False,data scientist,senior,725,3,3000.5,0.75
+"Cedar Rapids, IA","Cedar Rapids, IA",Company - Private,Lending,4.6,Finance,0,43.0,GreatAmerica Financial Services,31.0,IA,True,False,False,True,True,data analyst,na,605,0,750.5,0.3
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,4.4,Biotech & Pharmaceuticals,0,140.0,Acceleron Pharma,20.0,MA,True,False,False,False,True,director,na,736,0,350.5,
+"Philadelphia, PA","Philadelphia, PA",Company - Private,Insurance Carriers,3.0,Insurance,0,66.5,AmeriHealth Caritas,40.0,PA,True,False,False,True,True,data analyst,senior,524,3,7500.5,7.5
+"San Francisco, CA","Los Angeles, CA",Company - Private,Staffing & Outsourcing,4.7,Business Services,0,94.5,Strategic Employment Partners,17.0,CA,False,True,False,False,False,data engineer,senior,204,0,125.5,0.003
+"Seattle, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,119.0,PNNL,58.0,WA,False,False,False,False,False,data scientist,senior,725,3,3000.5,0.75
+"Omaha, NE","Englewood, CO",Nonprofit Organization,Health Care Services & Hospitals,3.2,Health Care,1,52.0,Catholic Health Initiatives,27.0,NE,False,False,False,False,False,na,na,286,2,10000.0,10.0
+"Chicago, IL","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,194.5,Liberty Mutual Insurance,111.0,IL,False,True,False,False,False,data scientist,na,558,3,10000.0,10.0
+"San Antonio, TX","San Antonio, TX",Nonprofit Organization,Research & Development,3.9,Business Services,0,71.5,Southwest Research Institute,76.0,TX,True,True,False,True,True,na,senior,298,3,3000.5,0.75
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,74.0,Reynolds American,148.0,NC,True,False,False,False,True,na,senior,784,0,7500.5,10.0
+"Huntsville, AL","Waltham, MA",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,62.5,Raytheon,101.0,AL,False,False,False,False,True,data analyst,na,617,0,10000.0,10.0
+"Durham, NC","Research Triangle Park, NC",Nonprofit Organization,Research & Development,4.3,Business Services,0,65.5,RTI International,65.0,NC,False,False,False,False,False,na,senior,278,3,3000.5,0.75
+"Fort Lee, NJ","Fort Lee, NJ",Company - Private,Advertising & Marketing,3.6,Business Services,0,161.5,TRANZACT,34.0,NJ,True,True,False,True,True,data scientist,na,787,0,3000.5,
+"San Francisco, CA","San Francisco, CA",Company - Public,Computer Hardware & Software,3.9,Information Technology,0,139.0,Figure Eight,15.0,CA,True,True,False,False,True,data engineer,senior,668,0,125.5,0.0175
+"San Francisco, CA","San Francisco, CA",Company - Private,Internet,3.9,Information Technology,0,136.5,Tapjoy,16.0,CA,True,False,False,True,False,data engineer,senior,483,2,350.5,0.0175
+"New York, NY","New York, NY",Company - Private,Travel Agencies,3.8,Travel & Tourism,0,74.5,Fareportal,21.0,NY,True,True,False,False,False,data scientist,na,479,3,3000.5,3.5
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,80.5,Reynolds American,148.0,NC,True,False,False,False,True,na,senior,749,0,7500.5,10.0
+"Albuquerque, NM","Gottingen, Germany",Company - Public,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,75.5,Sartorius,153.0,NM,False,True,False,False,True,data scientist,na,452,0,7500.5,1.5
+"Saint Louis, MO","Saint Louis, MO",Company - Private,IT Services,4.7,Information Technology,0,143.5,1904labs,7.0,MO,True,True,False,True,False,data scientist,na,720,2,125.5,
+"Springfield, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,92.0,MassMutual,172.0,MA,True,True,False,False,True,data engineer,na,403,0,7500.5,10.0
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,76.5,PNNL,58.0,WA,True,True,False,False,False,data scientist,na,849,3,3000.5,0.75
+"Salt Lake City, UT","Salt Lake City, UT",Company - Private,Biotech & Pharmaceuticals,4.7,Biotech & Pharmaceuticals,0,140.5,Recursion Pharmaceuticals,10.0,UT,True,True,False,False,False,data scientist,senior,653,0,125.5,0.003
+"Jersey City, NJ","New York, NY",Company - Public,Investment Banking & Asset Management,3.6,Finance,0,116.5,Citi,211.0,NJ,False,False,False,True,True,data scientist,na,579,0,10000.0,10.0
+"San Francisco, CA","San Francisco, CA",Company - Private,Enterprise Software & Network Solutions,3.5,Information Technology,0,120.5,Scale AI,7.0,CA,True,True,False,True,False,data scientist,na,352,0,125.5,
+"Arlington, VA","Redlands, CA",Company - Private,Computer Hardware & Software,3.5,Information Technology,0,82.0,Esri,54.0,VA,False,True,False,True,False,data scientist,na,586,1,3000.5,1.5
+"Rochester, NY","Rochester, NY",Hospital,Health Care Services & Hospitals,3.3,Health Care,0,84.5,Rochester Regional Health,9.0,NY,True,False,False,False,False,na,senior,487,0,10000.0,0.75
+"Emeryville, CA","Nashville, TN",Company - Public,IT Services,2.7,Information Technology,0,153.0,Change Healthcare,16.0,CA,False,True,False,True,False,data scientist,na,1017,0,10000.0,
+"Palo Alto, CA","Palo Alto, CA",Company - Private,Internet,3.4,Information Technology,0,127.0,MZ,15.0,CA,True,True,False,True,False,data scientist,na,487,0,750.5,
+"Santa Barbara, CA","Santa Barbara, CA",Company - Private,Computer Hardware & Software,4.7,Information Technology,0,85.5,HG Insights,13.0,CA,True,True,False,True,True,data scientist,na,561,0,125.5,
+"Carle Place, NY","Carle Place, NY",Company - Public,Wholesale,2.8,Business Services,0,76.5,"1-800-FLOWERS.COM, Inc.",47.0,NY,True,True,False,True,True,data scientist,na,421,0,3000.5,1.5
+"New York, NY","San Francisco, CA",Subsidiary or Business Segment,TV Broadcast & Cable Networks,3.5,Media,0,128.0,CBS Interactive,31.0,NY,False,True,False,True,False,data scientist,na,562,3,3000.5,0.75
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,4.4,Biotech & Pharmaceuticals,0,134.5,Rubius Therapeutics,10.0,MA,True,False,False,False,False,na,senior,622,0,350.5,0.3
+"San Francisco, CA","San Francisco, CA",Company - Private,Advertising & Marketing,3.3,Business Services,0,164.5,Samba TV,15.0,CA,True,False,False,False,False,data scientist,na,245,0,350.5,
+"Annapolis Junction, MD","Annapolis Junction, MD",Company - Private,Computer Hardware & Software,4.0,Information Technology,0,93.5,ClearEdge,21.0,MD,True,False,False,False,True,na,na,637,0,125.5,0.0075
+"West Palm Beach, FL","West Palm Beach, FL",Company - Public,Telecommunications Manufacturing,3.4,Telecommunications,0,44.0,SV Microwave,32.0,FL,True,False,False,False,False,data analyst,na,305,0,350.5,0.075
+"Austin, TX","Redwood City, CA",Company - Private,Computer Hardware & Software,3.8,Information Technology,0,149.5,Sumo Logic,13.0,TX,False,False,False,False,False,data engineer,na,501,3,750.5,
+"Washington, DC","Washington, DC",Company - Private,Research & Development,3.5,Business Services,0,65.5,EAB,16.0,DC,True,False,False,True,True,data engineer,na,657,0,3000.5,
+"Herndon, VA","Pleasanton, CA",Company - Private,Enterprise Software & Network Solutions,4.4,Information Technology,0,109.0,SpringML,8.0,VA,False,True,False,False,False,data engineer,na,358,0,25.5,
+"Mountain View, CA","Mountain View, CA",Subsidiary or Business Segment,Computer Hardware & Software,3.7,Information Technology,0,177.0,Samsung Research America,35.0,CA,True,True,False,True,False,data engineer,na,465,3,3000.5,0.075
+"Arlington, VA","Woburn, MA",Company - Private,Aerospace & Defense,4.7,Aerospace & Defense,0,107.0,Systems & Technology Research,13.0,VA,False,True,False,True,True,data scientist,na,519,0,350.5,0.3
+"Santa Clara, CA","Santa Clara, CA",Company - Private,Enterprise Software & Network Solutions,4.1,Information Technology,0,154.5,Netskope,11.0,CA,True,True,False,False,True,data scientist,na,588,3,750.5,
+"Springfield, VA","Reston, VA",Company - Public,Aerospace & Defense,3.4,Aerospace & Defense,0,101.5,Leidos,54.0,VA,False,True,False,False,False,data scientist,na,398,0,10000.0,10.0
+"New York, NY","Brea, CA",Subsidiary or Business Segment,Health Care Products Manufacturing,3.6,Manufacturing,0,73.0,Beckman Coulter Diagnostics,88.0,NY,False,False,False,True,True,data analyst,na,925,3,10000.0,3.5
+"New York, NY","London, United Kingdom",Company - Public,Consulting,3.5,Business Services,0,80.5,IHS Markit,7.0,NY,False,True,False,True,False,data scientist,na,894,2,10000.0,3.5
+"San Jose, CA","New York, NY",Company - Private,Advertising & Marketing,2.9,Business Services,0,114.0,Affinity Solutions,25.0,CA,False,True,False,True,False,data engineer,na,476,3,125.5,
+"New York, NY","New York, NY",Company - Private,Lending,4.0,Finance,0,87.0,Biz2Credit Inc,16.0,NY,True,False,False,False,True,data scientist,na,345,3,350.5,0.3
+"Holyoke, MA","Holyoke, MA",Company - Private,Banks & Credit Unions,4.2,Finance,0,100.5,PeoplesBank,138.0,MA,True,False,False,True,True,data scientist,na,676,0,350.5,0.075
+"New York, NY","Paris, France",Company - Public,Enterprise Software & Network Solutions,3.8,Information Technology,0,147.0,Capgemini,56.0,NY,False,True,False,True,True,data scientist,na,719,3,10000.0,10.0
+"New York, NY","New York, NY",Company - Private,Insurance Carriers,3.7,Insurance,0,110.5,GNY Insurance Companies,109.0,NY,True,True,False,True,True,data engineer,na,209,3,350.5,0.3
+"Exton, PA","Exton, PA",Nonprofit Organization,Banks & Credit Unions,3.9,Finance,0,49.0,Citadel Federal Credit Union,86.0,PA,True,True,False,True,False,data analyst,na,536,3,750.5,
+"New York, NY","New York, NY",Company - Public,Enterprise Software & Network Solutions,4.3,Information Technology,0,123.5,Medidata Solutions,24.0,NY,True,True,False,True,False,data scientist,senior,660,1,3000.5,0.75
+"Rochester, NY","Rochester, NY",Hospital,Health Care Services & Hospitals,3.3,Health Care,0,84.5,Rochester Regional Health,9.0,NY,True,False,False,False,False,na,senior,481,0,10000.0,0.75
+"Alexandria, VA","Alexandria, VA",Company - Private,IT Services,3.7,Information Technology,0,71.0,CALIBRE Systems,34.0,VA,True,False,False,True,True,data analyst,na,345,3,750.5,0.3
+"Corvallis, OR","Palo Alto, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,73.0,HP Inc.,84.0,OR,False,False,False,True,False,data engineer,na,281,0,10000.0,
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,101.0,MassMutual,172.0,MA,False,False,False,False,False,director,na,580,0,7500.5,10.0
+"San Francisco, CA","San Francisco, CA",Company - Private,Internet,3.9,Information Technology,0,181.0,Tapjoy,16.0,CA,True,True,False,True,False,machine learning,na,275,2,350.5,0.0175
+"San Diego, CA","Falls Church, VA",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,109.5,Northrop Grumman,84.0,CA,False,False,False,True,True,data scientist,na,628,0,10000.0,10.0
+"Bellevue, WA","Foster City, CA",Company - Public,IT Services,3.7,Information Technology,0,184.5,Visa Inc.,65.0,WA,False,True,False,True,True,data scientist,senior,1092,3,10000.0,10.0
+"New York, NY","New York, NY",Company - Private,Enterprise Software & Network Solutions,3.9,Information Technology,0,165.0,Quartet Health,9.0,NY,True,True,False,False,False,data scientist,senior,672,0,350.5,
+"Chicago, IL","Chicago, IL",Company - Public,Computer Hardware & Software,3.7,Information Technology,0,61.0,Motorola Solutions,95.0,IL,True,True,False,True,False,data analyst,na,806,3,10000.0,7.5
+"New York, NY","New York, NY",School / School District,K-12 Education,3.1,Education,0,59.5,Success Academy Charter Schools,17.0,NY,True,True,False,True,True,data analyst,na,669,0,3000.5,0.3
+"Owensboro, KY","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,103.5,Reynolds American,148.0,KY,False,False,False,False,False,na,na,673,0,7500.5,10.0
+"Hartford, CT","Bengaluru, India",Company - Public,IT Services,3.0,Information Technology,0,62.5,Infosys,42.0,CT,False,False,False,False,True,na,na,499,3,10000.0,10.0
+"Springfield, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,63.0,MassMutual,172.0,MA,True,False,False,False,True,manager,na,800,0,7500.5,10.0
+"New York, NY","New York, NY",Company - Private,Health Care Services & Hospitals,3.6,Health Care,0,66.0,AXION Healthcare Solutions,43.0,NY,True,False,False,False,True,data analyst,na,325,2,25.5,0.0175
+"Orange, CA","Orange, CA",Company - Private,Health Care Services & Hospitals,3.5,Health Care,0,94.5,Alignment Healthcare,10.0,CA,True,True,False,True,True,data engineer,na,824,0,750.5,
+"New York, NY","New York, NY",Company - Private,Education Training Services,4.2,Education,0,75.5,ExecOnline,11.0,NY,True,True,False,True,False,data scientist,na,641,3,125.5,
+"Fort Belvoir, VA","Lorton, VA",Company - Public,Aerospace & Defense,4.0,Aerospace & Defense,0,87.0,Mteq,69.0,VA,False,True,False,False,False,machine learning,na,448,2,750.5,0.3
+"Gaithersburg, MD","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,140.0,AstraZeneca,110.0,MD,False,True,False,False,True,data scientist,senior,645,3,10000.0,10.0
+"Silver Spring, MD","Reston, VA",Company - Private,IT Services,3.7,Information Technology,0,86.0,Brillient,17.0,MD,False,True,False,False,True,data scientist,na,945,0,350.5,0.0375
+"Marlborough, MA","Marlborough, MA",Company - Private,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,154.5,Sunovion,13.0,MA,True,True,False,False,True,na,senior,597,3,3000.5,1.5
+"Lenexa, KS","Chicago, IL",Company - Public,Stock Exchanges,3.7,Finance,0,87.0,Cboe Global Markets,50.0,KS,False,True,False,True,True,machine learning,na,397,0,750.5,0.75
+"Highland, CA","Highland, CA",Company - Private,Gambling,3.6,"Arts, Entertainment & Recreation",0,48.5,San Manuel Casino,37.0,CA,True,False,False,True,True,data analyst,na,618,0,3000.5,0.3
+"Houston, TX","Irvine, CA",Company - Private,IT Services,3.4,Information Technology,0,80.0,Trace3,21.0,TX,False,True,False,True,True,data engineer,na,1107,3,750.5,1.5
+"Burleson, TX","Arlington, TX",Hospital,Health Care Services & Hospitals,4.0,Health Care,1,44.72,Texas Health Huguley Hospital,46.0,TX,False,False,False,False,False,na,na,712,0,3000.5,0.075
+"San Jose, CA","Falls Church, VA",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,173.0,Northrop Grumman,84.0,CA,False,True,False,False,False,data scientist,senior,835,0,10000.0,10.0
+"New York, NY","New York, NY",Company - Private,Investment Banking & Asset Management,4.4,Finance,0,172.0,Two Sigma,22.0,NY,True,False,False,False,False,data scientist,na,451,0,3000.5,
+"Boston, MA","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,114.5,Liberty Mutual Insurance,111.0,MA,True,True,False,False,False,data scientist,na,610,3,10000.0,10.0
+"Gaithersburg, MD","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,95.0,AstraZeneca,110.0,MD,False,False,False,False,False,na,senior,428,3,10000.0,10.0
+"Bedford, MA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,69.5,MITRE,65.0,MA,True,True,False,True,True,data scientist,na,629,3,7500.5,1.5
+"New York, NY","New York, NY",Company - Private,Research & Development,3.2,Business Services,0,64.5,Guidepoint,20.0,NY,True,True,False,True,True,data engineer,na,413,3,750.5,
+"New York, NY","New York, NY",Company - Private,Consumer Product Rental,4.0,Consumer Services,0,97.5,Strategic Financial Solutions,16.0,NY,True,True,False,True,True,data scientist,na,511,2,750.5,
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,124.0,Software Engineering Institute,39.0,PA,True,False,False,False,False,machine learning,senior,733,0,750.5,
+"New York, NY","Norwalk, CT",Company - Private,Health Care Services & Hospitals,3.4,Health Care,0,95.0,"Remedy BPCI Partners, LLC.",12.0,NY,False,True,False,True,False,data scientist,na,414,2,350.5,
+"Chicago, IL","Chicago, IL",Company - Private,Consulting,4.4,Business Services,0,128.5,Maven Wave Partners,15.0,IL,True,True,False,True,True,data scientist,senior,480,0,350.5,0.075
+"San Francisco, CA","San Francisco, CA",Subsidiary or Business Segment,Enterprise Software & Network Solutions,3.2,Information Technology,0,194.0,The Climate Corporation,17.0,CA,True,False,False,False,True,data scientist,senior,700,3,750.5,
+"New York, NY","New York, NY",Company - Public,Advertising & Marketing,3.5,Business Services,0,104.5,Crossix Solutions,18.0,NY,True,True,False,True,True,data scientist,na,601,0,350.5,
+"Vail, CO","Vail, CO",Hospital,Health Care Services & Hospitals,3.7,Health Care,1,65.52000000000001,Vail Health,57.0,CO,True,False,False,False,False,na,na,253,0,750.5,0.3
+"Charlotte, NC","Chicago, IL",Company - Private,IT Services,4.2,Information Technology,0,85.5,Clarity Insights,15.0,NC,False,True,False,True,True,data engineer,na,791,0,350.5,
+"Aliso Viejo, CA","Seoul, South Korea",Company - Public,Video Games,3.1,Media,0,113.0,NCSOFT,26.0,CA,False,True,False,True,True,data engineer,na,356,3,3000.5,10.0
+"Cambridge, MA","Brentford, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,90.5,GSK,193.0,MA,False,False,False,False,False,na,na,833,3,10000.0,10.0
+"Los Angeles, CA","Los Angeles, CA",Company - Private,Computer Hardware & Software,4.3,Information Technology,0,153.0,Factual,15.0,CA,True,True,False,False,True,data scientist,senior,306,1,125.5,
+"Dublin, CA","Dublin, CA",Company - Public,Consulting,3.3,Business Services,0,123.5,TriNet,35.0,CA,True,False,False,True,True,data analyst,na,1057,3,3000.5,3.5
+"New York, NY","New York, NY",Company - Private,Internet,3.9,Information Technology,0,47.0,Signpost,13.0,NY,True,False,False,True,False,data analyst,senior,367,0,350.5,0.0175
+"Scotts Valley, CA","Scotts Valley, CA",Nonprofit Organization,Health Care Services & Hospitals,3.5,Health Care,0,64.0,Central California Alliance for Health,27.0,CA,True,False,False,True,False,manager,na,575,0,750.5,0.75
+"San Jose, CA","San Jose, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,162.0,Adobe,41.0,CA,True,True,False,True,True,data scientist,na,566,2,10000.0,7.5
+"New York, NY","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,137.0,AstraZeneca,110.0,NY,False,True,False,False,False,data scientist,senior,438,3,10000.0,10.0
+"Knoxville, TN","Knoxville, TN",Company - Private,Gas Stations,3.0,Retail,0,98.0,Pilot Flying J Travel Centers LLC,65.0,TN,True,True,False,True,False,data engineer,senior,313,3,10000.0,10.0
+"Armonk, NY","Zurich, Switzerland",Company - Public,Insurance Agencies & Brokerages,3.7,Insurance,0,115.0,Swiss Re,160.0,NY,False,True,False,True,True,data scientist,na,684,3,10000.0,10.0
+"Arvada, CO","Gottingen, Germany",Company - Public,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,133.5,Sartorius,153.0,CO,False,True,False,False,True,data scientist,senior,447,0,7500.5,1.5
+"Denver, CO","Denver, CO",Nonprofit Organization,Insurance Carriers,4.0,Insurance,0,99.0,Pinnacol Assurance,108.0,CO,True,True,False,True,False,data engineer,na,697,0,750.5,0.75
+"Milwaukee, WI","Milwaukee, WI",Company - Private,Food & Beverage Manufacturing,3.3,Manufacturing,0,54.0,Palermo's Pizza,59.0,WI,True,False,False,False,False,na,na,371,0,750.5,
+"Franklin, TN","Indianapolis, IN",Company - Private,Health Care Services & Hospitals,3.2,Health Care,0,109.0,Equian LLC,19.0,TN,False,False,False,False,True,data engineer,senior,262,0,3000.5,
+"Rockville, MD","Reston, VA",Company - Private,IT Services,3.4,Information Technology,0,109.0,MetroStar Systems,24.0,MD,False,False,False,False,False,data engineer,na,583,0,350.5,0.0375
+"Natick, MA","Natick, MA",Company - Private,Computer Hardware & Software,4.4,Information Technology,0,139.5,MathWorks,39.0,MA,True,True,False,True,False,data scientist,senior,364,0,3000.5,1.5
+"New York, NY","New York, NY",Company - Private,Computer Hardware & Software,3.2,Information Technology,0,125.0,Information Builders,48.0,NY,True,True,False,True,True,machine learning,na,502,3,3000.5,
+"Cambridge, MA","Basel, Switzerland",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,106.5,Novartis,27.0,MA,False,True,False,True,False,data scientist,senior,558,0,10000.0,10.0
+"South San Francisco, CA","San Francisco, CA",Subsidiary or Business Segment,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,73.0,Audentes Therapeutics,11.0,CA,False,False,False,False,False,na,na,500,3,350.5,
+"Rockville, MD","Rockville, MD",Company - Private,Biotech & Pharmaceuticals,2.7,Biotech & Pharmaceuticals,0,81.0,Advanced BioScience Laboratories,62.0,MD,True,False,False,False,True,na,na,514,0,350.5,0.0375
+"Millville, DE","Lewes, DE",Nonprofit Organization,Health Care Services & Hospitals,3.6,Health Care,1,57.2,Beebe Healthcare,88.0,DE,False,False,False,False,False,na,na,367,0,3000.5,0.3
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,99.5,Reynolds American,148.0,NC,True,False,False,False,True,na,na,945,0,7500.5,10.0
+"Richfield, OH","Richfield, OH",Company - Private,Insurance Carriers,3.3,Insurance,0,45.5,National Interstate,34.0,OH,True,False,False,False,False,data analyst,na,424,0,750.5,0.75
+"Worcester, MA","Worcester, MA",Company - Public,Insurance Carriers,3.7,Insurance,0,54.0,The Hanover Insurance Group,171.0,MA,True,False,False,True,False,data analyst,na,523,0,7500.5,7.5
+"Indianapolis, IN","Indianapolis, IN",Company - Private,Consulting,4.5,Business Services,0,122.5,Moser Consulting,27.0,IN,True,True,False,True,False,data engineer,senior,331,0,125.5,0.0375
+"New York, NY","New York, NY",Company - Private,Travel Agencies,3.8,Travel & Tourism,0,53.5,Fareportal,21.0,NY,True,True,False,True,True,data analyst,na,343,3,3000.5,3.5
+"Chicago, IL","Chicago, IL",Company - Public,Financial Analytics & Research,3.9,Finance,0,140.0,TransUnion,55.0,IL,True,True,False,True,True,data scientist,senior,728,0,7500.5,1.5
+"Hampton, VA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,77.5,MITRE,65.0,VA,False,False,False,False,False,data scientist,senior,454,3,7500.5,1.5
+"Cambridge, MA","Cambridge, MA",Company - Private,Construction,3.3,"Construction, Repair & Maintenance",1,55.120000000000005,Mcphail Associates,47.0,MA,True,False,False,False,True,na,na,232,0,25.5,
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,117.5,Reynolds American,148.0,NC,True,False,False,False,True,na,senior,951,0,7500.5,10.0
+"San Diego, CA","San Diego, CA",Company - Private,Biotech & Pharmaceuticals,2.4,Biotech & Pharmaceuticals,0,70.5,Crown Bioscience,17.0,CA,True,False,False,False,False,na,na,468,0,750.5,0.075
+"Ithaca, NY","Morrisville, NC",Company - Private,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,70.0,Q2 Solutions,8.0,NY,False,False,False,False,True,na,na,609,0,3000.5,
+"Marietta, GA","Morrisville, NC",Company - Private,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,80.0,Q2 Solutions,8.0,GA,False,False,False,False,True,na,senior,582,0,3000.5,
+"Atlanta, GA","Atlanta, GA",Company - Private,Computer Hardware & Software,4.7,Information Technology,0,79.5,Oversight Systems,20.0,GA,True,True,False,True,True,data scientist,na,419,0,125.5,0.0375
+"Mountain View, CA","Mountain View, CA",Company - Private,Computer Hardware & Software,4.7,Information Technology,0,168.0,Confluent,9.0,CA,True,True,False,True,True,data scientist,na,564,0,750.5,0.3
+"Quincy, MA","Quincy, MA",Company - Private,Insurance Carriers,3.4,Insurance,0,90.0,Arbella Insurance,35.0,MA,True,False,False,True,True,data engineer,na,393,0,3000.5,0.3
+"San Francisco, CA","San Francisco, CA",Company - Public,Computer Hardware & Software,3.9,Information Technology,0,138.5,Life360,15.0,CA,True,True,False,True,False,data analyst,senior,860,0,125.5,
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,68.5,MassMutual,172.0,MA,False,False,False,False,True,data scientist,na,706,0,7500.5,10.0
+"Cambridge, MA","Brentford, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,84.5,GSK,193.0,MA,False,False,False,False,False,na,senior,871,3,10000.0,10.0
+"Nashville, TN","San Francisco, CA",Company - Public,Internet,4.4,Information Technology,0,102.5,Eventbrite,17.0,TN,False,True,False,True,False,data engineer,senior,877,3,3000.5,0.3
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,73.5,Software Engineering Institute,39.0,PA,True,False,False,False,True,na,na,421,0,750.5,
+"Beavercreek, OH","Arlington, VA",Nonprofit Organization,Federal Agencies,3.6,Government,0,93.5,Riverside Research Institute,56.0,OH,False,True,False,False,False,na,na,522,0,750.5,0.075
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,129.5,MassMutual,172.0,MA,False,True,False,True,True,na,na,633,0,7500.5,10.0
+"Logan, UT","Logan, UT",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,47.0,Icon Health and Fitness,46.0,UT,True,True,False,True,True,data analyst,na,638,3,3000.5,0.75
+"Birmingham, AL","Birmingham, AL",Subsidiary or Business Segment,Consumer Product Rental,3.8,Consumer Services,0,65.0,Shipt,9.0,AL,True,True,False,True,True,data engineer,na,568,0,750.5,
+"Green Bay, WI","Green Bay, WI",Company - Public,Banks & Credit Unions,3.8,Finance,0,60.0,Associated Banc-Corp,153.0,WI,True,False,False,False,True,data analyst,na,547,3,3000.5,1.5
+"New York, NY","New York, NY",Company - Public,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,167.5,Pfizer,174.0,NY,True,False,False,False,True,data scientist,senior,667,0,10000.0,10.0
+"New York, NY","New York, NY",Company - Private,Travel Agencies,3.8,Travel & Tourism,0,65.0,Fareportal,21.0,NY,True,False,False,True,True,data analyst,na,366,3,3000.5,3.5
+"Herndon, VA","Mc Lean, VA",Company - Private,Enterprise Software & Network Solutions,4.0,Information Technology,0,94.0,Novetta,11.0,VA,False,True,False,True,False,data analyst,senior,580,3,750.5,0.3
+"Reston, VA","Mc Lean, VA",Company - Private,Enterprise Software & Network Solutions,4.0,Information Technology,0,97.0,Novetta,11.0,VA,False,True,False,True,False,data engineer,senior,879,3,750.5,0.3
+"Durham, NC","Daly City, CA",Company - Private,Computer Hardware & Software,4.3,Information Technology,0,112.5,Genesys,33.0,NC,False,True,False,False,False,data engineer,senior,661,3,7500.5,1.5
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,91.5,MassMutual,172.0,MA,False,False,False,True,True,na,na,583,0,7500.5,10.0
+"Indianapolis, IN","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,51.5,Liberty Mutual Insurance,111.0,IN,False,True,False,True,True,na,na,614,3,10000.0,10.0
+"Cambridge, MA","Basel, Switzerland",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,114.5,Novartis,27.0,MA,False,False,False,False,False,data scientist,na,241,0,10000.0,10.0
+"New York, NY","New York, NY",Company - Private,Consulting,4.3,Business Services,0,115.0,USEReady,12.0,NY,True,True,False,True,False,data scientist,na,202,0,350.5,0.0175
+"Clovis, CA","Visalia, CA",Company - Private,Architectural & Engineering Services,4.7,Business Services,0,51.0,QK,51.0,CA,False,False,False,False,True,na,na,586,0,125.5,0.0175
+"Chandler, AZ","Franklin, TN",Company - Public,Health Care Services & Hospitals,3.4,Health Care,0,100.0,Tivity Health,42.0,AZ,False,False,False,True,False,data engineer,senior,528,0,750.5,
+"Cambridge, MA","Basel, Switzerland",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,121.0,Novartis,27.0,MA,False,False,False,False,False,data scientist,senior,287,0,10000.0,10.0
+"San Francisco, CA","San Francisco, CA",Company - Private,Computer Hardware & Software,4.5,Information Technology,0,121.5,Demandbase,17.0,CA,True,False,False,True,False,data analyst,senior,573,3,350.5,0.3
+"Boston, MA","Madrid, Spain",Company - Private,Banks & Credit Unions,3.1,Finance,0,62.5,Santander,167.0,MA,False,True,False,True,True,data scientist,na,407,0,10000.0,10.0
+"Orlando, FL","Orlando, FL",Company - Private,Computer Hardware & Software,3.9,Information Technology,0,122.0,Luminar Technologies,11.0,FL,True,True,False,False,False,data scientist,senior,770,0,350.5,
+"Chantilly, VA","Washington, DC",Company - Private,IT Services,4.4,Information Technology,0,85.0,BRMi,19.0,VA,False,True,False,False,False,data engineer,na,414,0,125.5,
+"Burbank, CA","Burbank, CA",Company - Private,Financial Analytics & Research,3.9,Finance,0,180.0,Zest AI,14.0,CA,True,True,False,True,True,data scientist,senior,451,0,125.5,0.075
+"Columbia, MO","Columbia, MO",Company - Private,Lending,4.7,Finance,0,70.5,Veterans United Home Loans,21.0,MO,True,False,False,True,True,na,na,412,0,3000.5,
+"Chicago, IL","Jacksonville, FL",Company - Private,Enterprise Software & Network Solutions,3.9,Information Technology,0,66.5,"Emtec, Inc.",28.0,IL,False,True,False,True,False,na,na,670,0,750.5,0.3
+"Austin, TX","Austin, TX",Company - Private,Security Services,4.7,Business Services,0,138.5,Praetorian,13.0,TX,True,True,False,True,False,data engineer,senior,700,0,125.5,0.0175
+"Rockville, MD","Rockville, MD",Company - Private,Biotech & Pharmaceuticals,2.7,Biotech & Pharmaceuticals,0,81.0,Advanced BioScience Laboratories,62.0,MD,True,False,False,False,False,na,na,656,0,350.5,0.0375
+"Bloomington, IL","Bloomington, IL",Company - Private,Insurance Carriers,3.8,Insurance,0,58.5,COUNTRY Financial,98.0,IL,True,True,False,True,True,data engineer,na,321,3,3000.5,3.5
+"Chicago, IL","Chicago, IL",Company - Public,Transportation Management,3.4,Transportation & Logistics,0,107.5,Echo Global Logistics,18.0,IL,True,False,False,True,False,data engineer,senior,611,3,3000.5,3.5
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,120.5,Agios Pharmaceuticals,15.0,MA,True,False,False,False,False,na,na,343,0,750.5,0.075
+"San Francisco, CA","San Francisco, CA",Company - Private,Internet,3.9,Information Technology,0,63.5,Tapjoy,16.0,CA,True,True,False,True,False,data scientist,na,331,2,350.5,0.0175
+"Owensboro, KY","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,103.5,Reynolds American,148.0,KY,False,False,False,False,False,na,na,676,0,7500.5,10.0
+"Fremont, CA","Wilsonville, OR",Company - Public,Computer Hardware & Software,4.1,Information Technology,0,107.0,Mentor Graphics,42.0,CA,False,True,False,False,True,data scientist,na,453,3,7500.5,1.5
+"San Diego, CA","San Diego, CA",Company - Private,Insurance Carriers,2.8,Insurance,0,83.0,ICW Group,51.0,CA,True,False,False,True,False,data engineer,na,516,3,750.5,0.75
+"San Francisco, CA","Mill Valley, CA",Company - Private,Internet,4.0,Information Technology,0,162.0,Glassdoor,16.0,CA,False,True,False,False,True,data engineer,senior,580,2,3000.5,
+"Redlands, CA","Redlands, CA",Company - Private,Computer Hardware & Software,3.5,Information Technology,0,68.5,Esri,54.0,CA,True,True,False,False,True,data scientist,na,469,1,3000.5,1.5
+"Westlake, OH","New York, NY",Company - Public,Insurance Carriers,3.4,Insurance,0,110.5,Assurant,45.0,OH,False,False,False,True,True,data scientist,senior,252,3,10000.0,7.5
+"Alameda, CA","Alameda, CA",Company - Public,Biotech & Pharmaceuticals,3.0,Biotech & Pharmaceuticals,0,87.5,Exelixis,29.0,CA,True,False,False,False,True,na,na,639,3,750.5,
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,80.5,PNNL,58.0,WA,True,False,False,False,False,data scientist,senior,725,3,3000.5,0.75
+"Cedar Rapids, IA","Cedar Rapids, IA",Company - Private,Lending,4.6,Finance,0,43.0,GreatAmerica Financial Services,31.0,IA,True,False,False,True,True,data analyst,na,605,0,750.5,0.3
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,4.4,Biotech & Pharmaceuticals,0,140.0,Acceleron Pharma,20.0,MA,True,False,False,False,True,director,na,736,0,350.5,
+"Cambridge, MA","New York, NY",Company - Public,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,172.0,Pfizer,174.0,MA,False,False,False,False,False,director,na,778,0,10000.0,10.0
+"Philadelphia, PA","Philadelphia, PA",Company - Private,Insurance Carriers,3.0,Insurance,0,66.5,AmeriHealth Caritas,40.0,PA,True,False,False,True,True,data analyst,senior,524,3,7500.5,7.5
+"Alameda, CA","Alameda, CA",Company - Public,Biotech & Pharmaceuticals,3.0,Biotech & Pharmaceuticals,0,100.0,Exelixis,29.0,CA,True,False,False,False,True,na,senior,1005,3,750.5,
+"San Francisco, CA","Los Angeles, CA",Company - Private,Staffing & Outsourcing,4.7,Business Services,0,94.5,Strategic Employment Partners,17.0,CA,False,True,False,False,False,data engineer,senior,204,0,125.5,0.003
+"Seattle, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,119.0,PNNL,58.0,WA,False,False,False,False,False,data scientist,senior,725,3,3000.5,0.75
+"Chicago, IL","Chicago, IL",Company - Private,Consulting,3.5,Business Services,0,95.5,"SPINS, LLC",28.0,IL,True,True,False,True,False,data engineer,na,471,0,350.5,0.075
+"Chicago, IL","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,194.5,Liberty Mutual Insurance,111.0,IL,False,True,False,False,False,data scientist,na,558,3,10000.0,10.0
+"Omaha, NE","Englewood, CO",Nonprofit Organization,Health Care Services & Hospitals,3.2,Health Care,1,52.0,Catholic Health Initiatives,27.0,NE,False,False,False,False,False,na,na,286,2,10000.0,10.0
+"Jersey City, NJ","New York, NY",Company - Private,Brokerage Services,3.3,Finance,0,173.0,DTCC,50.0,NJ,False,True,False,True,True,na,senior,585,0,3000.5,1.5
+"San Antonio, TX","San Antonio, TX",Nonprofit Organization,Research & Development,3.9,Business Services,0,71.5,Southwest Research Institute,76.0,TX,True,True,False,True,True,na,senior,298,3,3000.5,0.75
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,74.0,Reynolds American,148.0,NC,True,False,False,False,True,na,senior,784,0,7500.5,10.0
+"Huntsville, AL","Waltham, MA",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,62.5,Raytheon,101.0,AL,False,False,False,False,True,data analyst,na,617,0,10000.0,10.0
+"Durham, NC","Research Triangle Park, NC",Nonprofit Organization,Research & Development,4.3,Business Services,0,65.5,RTI International,65.0,NC,False,False,False,False,False,na,senior,278,3,3000.5,0.75
+"Coraopolis, PA","Coraopolis, PA",Company - Public,Sporting Goods Stores,3.8,Retail,0,85.0,DICK'S Sporting Goods - Corporate,75.0,PA,True,True,False,True,False,data scientist,na,345,3,10000.0,7.5
+"Gaithersburg, MD","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,147.5,AstraZeneca,110.0,MD,False,True,False,False,True,data scientist,senior,635,3,10000.0,10.0
+"Fort Lee, NJ","Fort Lee, NJ",Company - Private,Advertising & Marketing,3.6,Business Services,0,161.5,TRANZACT,34.0,NJ,True,True,False,True,True,data scientist,na,787,0,3000.5,
+"Roanoke, VA","Roanoke, VA",Nonprofit Organization,Health Care Services & Hospitals,3.7,Health Care,0,81.0,Carilion Clinic,124.0,VA,True,False,False,False,True,data engineer,na,390,0,10000.0,1.5
+"San Francisco, CA","San Francisco, CA",Company - Public,Computer Hardware & Software,3.9,Information Technology,0,139.0,Figure Eight,15.0,CA,True,True,False,False,True,data engineer,senior,668,0,125.5,0.0175
+"San Francisco, CA","San Francisco, CA",Company - Private,Internet,3.9,Information Technology,0,136.5,Tapjoy,16.0,CA,True,False,False,True,False,data engineer,senior,483,2,350.5,0.0175
+"New York, NY","New York, NY",Company - Private,Internet,3.2,Information Technology,0,83.0,DoubleVerify,15.0,NY,True,True,False,True,True,data analyst,senior,381,0,350.5,
+"Cambridge, MA","Cambridge, MA",Subsidiary or Business Segment,Research & Development,4.6,Business Services,0,121.0,Mitsubishi Electric Research Labs,32.0,MA,True,False,False,False,True,na,senior,534,3,125.5,0.0075
+"New York, NY","New York, NY",Company - Private,Travel Agencies,3.8,Travel & Tourism,0,74.5,Fareportal,21.0,NY,True,True,False,False,False,data scientist,na,479,3,3000.5,3.5
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,80.5,Reynolds American,148.0,NC,True,False,False,False,True,na,senior,749,0,7500.5,10.0
+"Cambridge, MA","Cambridge, MA",Subsidiary or Business Segment,Research & Development,4.6,Business Services,0,167.5,Mitsubishi Electric Research Labs,32.0,MA,True,False,False,False,False,na,senior,400,3,125.5,0.0075
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,107.5,Software Engineering Institute,39.0,PA,True,True,False,True,False,machine learning,na,267,0,750.5,
+"Seattle, WA","Seattle, WA",Nonprofit Organization,Social Assistance,3.4,Non-Profit,0,44.5,DESC,44.0,WA,True,False,False,True,True,data analyst,na,567,0,750.5,0.0375
+"Glen Burnie, MD","Baltimore, MD",Company - Private,Health Care Services & Hospitals,3.3,Health Care,0,107.5,Johns Hopkins Health Care,134.0,MD,False,False,False,True,False,data analyst,senior,349,3,3000.5,0.75
+"Philadelphia, PA","Phila, PA",Company - Private,Health Care Services & Hospitals,3.7,Health Care,0,69.5,Community Behavioral Health,29.0,PA,False,False,False,True,True,data analyst,senior,266,0,350.5,0.75
+"Milpitas, CA","San Jose, CA",Company - Public,Computer Hardware & Software,3.5,Information Technology,0,98.5,Western Digital,53.0,CA,False,True,False,True,False,na,senior,590,2,10000.0,10.0
+"Rockville, MD","Rockville, MD",Company - Private,Biotech & Pharmaceuticals,2.7,Biotech & Pharmaceuticals,0,80.5,Advanced BioScience Laboratories,62.0,MD,True,False,False,False,True,na,na,511,0,350.5,0.0375
+"Watertown, MA","Watertown, MA",Company - Private,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,1,76.96000000000001,FORMA THERAPEUTICS,15.0,MA,True,False,False,False,True,na,na,484,0,125.5,0.0175
+"Cambridge, MD","Waltham, MA",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,99.0,Raytheon,101.0,MD,False,True,False,True,False,na,na,609,0,10000.0,10.0
+"Cambridge, MA","Cambridge, MA",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,96.5,Agios Pharmaceuticals,15.0,MA,True,False,False,False,True,manager,na,601,0,750.5,0.075
+"Boston, MA","Boston, MA",Company - Private,Insurance Carriers,3.3,Insurance,0,53.0,Liberty Mutual Insurance,111.0,MA,True,False,False,False,False,data scientist,na,508,3,10000.0,10.0
+"Los Angeles, CA","Los Angeles, CA",Company - Private,Enterprise Software & Network Solutions,2.7,Information Technology,0,103.0,Bridg,12.0,CA,True,False,False,False,False,data engineer,senior,671,0,25.5,
+"Palo Alto, CA","Palo Alto, CA",Company - Public,Financial Transaction Processing,3.8,Finance,0,139.5,Bill.com,17.0,CA,True,False,False,True,False,data scientist,senior,417,0,750.5,0.075
+"Richland, WA","Richland, WA",Government,Energy,3.8,"Oil, Gas, Energy & Utilities",0,67.0,Pacific Northwest National Laboratory,58.0,WA,True,False,False,False,False,data scientist,na,687,3,3000.5,0.75
+"Hartford, CT","Bengaluru, India",Company - Public,IT Services,3.0,Information Technology,0,62.5,Infosys,42.0,CT,False,False,False,False,True,na,na,499,3,10000.0,10.0
+"Gaithersburg, MD","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,92.0,AstraZeneca,110.0,MD,False,False,False,False,False,na,na,336,3,10000.0,10.0
+"New York, NY","New York, NY",Company - Private,Health Care Services & Hospitals,3.6,Health Care,0,66.0,AXION Healthcare Solutions,43.0,NY,True,False,False,False,True,data analyst,na,325,2,25.5,0.0175
+"Orange, CA","Orange, CA",Company - Private,Health Care Services & Hospitals,3.5,Health Care,0,94.5,Alignment Healthcare,10.0,CA,True,True,False,True,True,data engineer,na,824,0,750.5,
+"Fort Lee, NJ","Fort Lee, NJ",Company - Private,Advertising & Marketing,3.6,Business Services,0,114.0,TRANZACT,34.0,NJ,True,True,False,True,True,data scientist,na,712,0,3000.5,
+"New York, NY","New York, NY",Company - Private,Education Training Services,4.2,Education,0,75.5,ExecOnline,11.0,NY,True,True,False,True,False,data scientist,na,641,3,125.5,
+"Fort Belvoir, VA","Lorton, VA",Company - Public,Aerospace & Defense,4.0,Aerospace & Defense,0,87.0,Mteq,69.0,VA,False,True,False,False,False,machine learning,na,448,2,750.5,0.3
+"Silver Spring, MD","Reston, VA",Company - Private,IT Services,3.7,Information Technology,0,86.0,Brillient,17.0,MD,False,True,False,False,True,data scientist,na,945,0,350.5,0.0375
+"Marlborough, MA","Marlborough, MA",Company - Private,Biotech & Pharmaceuticals,3.5,Biotech & Pharmaceuticals,0,154.5,Sunovion,13.0,MA,True,True,False,False,True,na,senior,597,3,3000.5,1.5
+"Highland, CA","Highland, CA",Company - Private,Gambling,3.6,"Arts, Entertainment & Recreation",0,48.5,San Manuel Casino,37.0,CA,True,False,False,True,True,data analyst,na,618,0,3000.5,0.3
+"Lenexa, KS","Chicago, IL",Company - Public,Stock Exchanges,3.7,Finance,0,87.0,Cboe Global Markets,50.0,KS,False,True,False,True,True,machine learning,na,397,0,750.5,0.75
+"Houston, TX","Irvine, CA",Company - Private,IT Services,3.4,Information Technology,0,80.0,Trace3,21.0,TX,False,True,False,True,True,data engineer,na,1107,3,750.5,1.5
+"Burleson, TX","Arlington, TX",Hospital,Health Care Services & Hospitals,4.0,Health Care,1,44.72,Texas Health Huguley Hospital,46.0,TX,False,False,False,False,False,na,na,712,0,3000.5,0.075
+"San Jose, CA","Falls Church, VA",Company - Public,Aerospace & Defense,3.7,Aerospace & Defense,0,173.0,Northrop Grumman,84.0,CA,False,True,False,False,False,data scientist,senior,835,0,10000.0,10.0
+"Gaithersburg, MD","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,95.0,AstraZeneca,110.0,MD,False,False,False,False,False,na,senior,428,3,10000.0,10.0
+"Bedford, MA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,69.5,MITRE,65.0,MA,True,True,False,True,True,data scientist,na,629,3,7500.5,1.5
+"Cincinnati, OH","Cincinnati, OH",Subsidiary or Business Segment,Metals Brokers,4.4,Mining & Metals,0,107.0,The David J. Joseph Company,138.0,OH,True,True,False,True,False,data scientist,senior,688,0,350.5,
+"Charlottesville, VA","Reston, VA",Company - Private,IT Services,3.9,Information Technology,0,112.0,The Buffalo Group,13.0,VA,False,True,False,True,False,data scientist,senior,603,3,750.5,0.3
+"Washington, DC","Houston, TX",Company - Private,Consulting,3.4,Business Services,0,96.5,CompQsoft,26.0,DC,False,True,False,False,False,data scientist,na,639,0,125.5,0.0175
+"New York, NY","Norwalk, CT",Company - Private,Health Care Services & Hospitals,3.4,Health Care,0,95.0,"Remedy BPCI Partners, LLC.",12.0,NY,False,True,False,True,False,data scientist,na,414,2,350.5,
+"New York, NY","New York, NY",Company - Private,Consumer Product Rental,4.0,Consumer Services,0,97.5,Strategic Financial Solutions,16.0,NY,True,True,False,True,True,data scientist,na,511,2,750.5,
+"Chicago, IL","Chicago, IL",Company - Private,Consulting,4.4,Business Services,0,128.5,Maven Wave Partners,15.0,IL,True,True,False,True,True,data scientist,senior,480,0,350.5,0.075
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,124.0,Software Engineering Institute,39.0,PA,True,False,False,False,False,machine learning,senior,733,0,750.5,
+"San Francisco, CA","San Francisco, CA",Subsidiary or Business Segment,Enterprise Software & Network Solutions,3.2,Information Technology,0,194.0,The Climate Corporation,17.0,CA,True,False,False,False,True,data scientist,senior,700,3,750.5,
+"Vail, CO","Vail, CO",Hospital,Health Care Services & Hospitals,3.7,Health Care,1,65.52000000000001,Vail Health,57.0,CO,True,False,False,False,False,na,na,253,0,750.5,0.3
+"New York, NY","New York, NY",Company - Public,Advertising & Marketing,3.5,Business Services,0,104.5,Crossix Solutions,18.0,NY,True,True,False,True,True,data scientist,na,601,0,350.5,
+"Phoenix, AZ","Brea, CA",Company - Private,IT Services,4.3,Information Technology,0,69.5,Solugenix Corporation,54.0,AZ,False,True,False,True,True,data scientist,na,540,0,350.5,0.075
+"Irvine, CA","Irvine, CA",Company - Private,Colleges & Universities,2.6,Education,0,121.0,West Coast University,26.0,CA,True,True,False,True,False,data scientist,na,312,0,10000.0,
+"Charlotte, NC","Chicago, IL",Company - Private,IT Services,4.2,Information Technology,0,85.5,Clarity Insights,15.0,NC,False,True,False,True,True,data engineer,na,791,0,350.5,
+"Aliso Viejo, CA","Seoul, South Korea",Company - Public,Video Games,3.1,Media,0,113.0,NCSOFT,26.0,CA,False,True,False,True,True,data engineer,na,356,3,3000.5,10.0
+"San Francisco, CA","Paris, France",Subsidiary or Business Segment,Consumer Products Manufacturing,3.8,Manufacturing,0,103.0,SoftBank Robotics,18.0,CA,False,True,False,True,False,data scientist,na,381,0,350.5,0.0375
+"Cambridge, MA","Brentford, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,90.5,GSK,193.0,MA,False,False,False,False,False,na,na,833,3,10000.0,10.0
+"Los Angeles, CA","Los Angeles, CA",Company - Private,Computer Hardware & Software,4.3,Information Technology,0,153.0,Factual,15.0,CA,True,True,False,False,True,data scientist,senior,306,1,125.5,
+"McLean, VA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,106.5,MITRE,65.0,VA,False,True,False,True,True,data scientist,junior,440,3,7500.5,1.5
+"Dublin, CA","Dublin, CA",Company - Public,Consulting,3.3,Business Services,0,123.5,TriNet,35.0,CA,True,False,False,True,True,data analyst,na,1057,3,3000.5,3.5
+"New York, NY","New York, NY",Company - Public,Enterprise Software & Network Solutions,4.3,Information Technology,0,86.5,Medidata Solutions,24.0,NY,True,False,False,True,True,na,na,560,1,3000.5,0.75
+"Scotts Valley, CA","Scotts Valley, CA",Nonprofit Organization,Health Care Services & Hospitals,3.5,Health Care,0,64.0,Central California Alliance for Health,27.0,CA,True,False,False,True,False,manager,na,575,0,750.5,0.75
+"New York, NY","New York, NY",Company - Private,Internet,3.9,Information Technology,0,47.0,Signpost,13.0,NY,True,False,False,True,False,data analyst,senior,367,0,350.5,0.0175
+"San Jose, CA","San Jose, CA",Company - Public,Computer Hardware & Software,4.0,Information Technology,0,162.0,Adobe,41.0,CA,True,True,False,True,True,data scientist,na,566,2,10000.0,7.5
+"Gaithersburg, MD","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,140.0,AstraZeneca,110.0,MD,False,True,False,False,True,data scientist,senior,645,3,10000.0,10.0
+"Knoxville, TN","Knoxville, TN",Company - Private,Gas Stations,3.0,Retail,0,98.0,Pilot Flying J Travel Centers LLC,65.0,TN,True,True,False,True,False,data engineer,senior,313,3,10000.0,10.0
+"New York, NY","Cambridge, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,137.0,AstraZeneca,110.0,NY,False,True,False,False,False,data scientist,senior,438,3,10000.0,10.0
+"Denver, CO","Denver, CO",Nonprofit Organization,Insurance Carriers,4.0,Insurance,0,99.0,Pinnacol Assurance,108.0,CO,True,True,False,True,False,data engineer,na,697,0,750.5,0.75
+"Milwaukee, WI","Milwaukee, WI",Company - Private,Food & Beverage Manufacturing,3.3,Manufacturing,0,54.0,Palermo's Pizza,59.0,WI,True,False,False,False,False,na,na,371,0,750.5,
+"Franklin, TN","Indianapolis, IN",Company - Private,Health Care Services & Hospitals,3.2,Health Care,0,109.0,Equian LLC,19.0,TN,False,False,False,False,True,data engineer,senior,262,0,3000.5,
+"Rockville, MD","Reston, VA",Company - Private,IT Services,3.4,Information Technology,0,109.0,MetroStar Systems,24.0,MD,False,False,False,False,False,data engineer,na,583,0,350.5,0.0375
+"Natick, MA","Natick, MA",Company - Private,Computer Hardware & Software,4.4,Information Technology,0,139.5,MathWorks,39.0,MA,True,True,False,True,False,data scientist,senior,364,0,3000.5,1.5
+"New York, NY","New York, NY",Company - Private,Computer Hardware & Software,3.2,Information Technology,0,125.0,Information Builders,48.0,NY,True,True,False,True,True,machine learning,na,502,3,3000.5,
+"Cambridge, MA","Basel, Switzerland",Company - Public,Biotech & Pharmaceuticals,3.8,Biotech & Pharmaceuticals,0,106.5,Novartis,27.0,MA,False,True,False,True,False,data scientist,senior,558,0,10000.0,10.0
+"Millville, DE","Lewes, DE",Nonprofit Organization,Health Care Services & Hospitals,3.6,Health Care,1,57.2,Beebe Healthcare,88.0,DE,False,False,False,False,False,na,na,367,0,3000.5,0.3
+"South San Francisco, CA","San Francisco, CA",Subsidiary or Business Segment,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,73.0,Audentes Therapeutics,11.0,CA,False,False,False,False,False,na,na,500,3,350.5,
+"Rockville, MD","Rockville, MD",Company - Private,Biotech & Pharmaceuticals,2.7,Biotech & Pharmaceuticals,0,81.0,Advanced BioScience Laboratories,62.0,MD,True,False,False,False,True,na,na,514,0,350.5,0.0375
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,99.5,Reynolds American,148.0,NC,True,False,False,False,True,na,na,945,0,7500.5,10.0
+"South San Francisco, CA","Sunnyvale, CA",Company - Private,Biotech & Pharmaceuticals,4.0,Biotech & Pharmaceuticals,0,92.0,23andMe,17.0,CA,False,False,False,False,True,na,senior,533,3,750.5,
+"Richfield, OH","Richfield, OH",Company - Private,Insurance Carriers,3.3,Insurance,0,45.5,National Interstate,34.0,OH,True,False,False,False,False,data analyst,na,424,0,750.5,0.75
+"Indianapolis, IN","Indianapolis, IN",Company - Private,Consulting,4.5,Business Services,0,122.5,Moser Consulting,27.0,IN,True,True,False,True,False,data engineer,senior,331,0,125.5,0.0375
+"Worcester, MA","Worcester, MA",Company - Public,Insurance Carriers,3.7,Insurance,0,54.0,The Hanover Insurance Group,171.0,MA,True,False,False,True,False,data analyst,na,523,0,7500.5,7.5
+"New York, NY","New York, NY",Company - Private,Travel Agencies,3.8,Travel & Tourism,0,53.5,Fareportal,21.0,NY,True,True,False,True,True,data analyst,na,343,3,3000.5,3.5
+"Chicago, IL","Chicago, IL",Company - Public,Financial Analytics & Research,3.9,Finance,0,140.0,TransUnion,55.0,IL,True,True,False,True,True,data scientist,senior,728,0,7500.5,1.5
+"Hampton, VA","Bedford, MA",Nonprofit Organization,Federal Agencies,3.2,Government,0,77.5,MITRE,65.0,VA,False,False,False,False,False,data scientist,senior,454,3,7500.5,1.5
+"Cambridge, MA","Cambridge, MA",Company - Private,Construction,3.3,"Construction, Repair & Maintenance",1,55.120000000000005,Mcphail Associates,47.0,MA,True,False,False,False,True,na,na,232,0,25.5,
+"Winston-Salem, NC","Winston-Salem, NC",Company - Private,Consumer Products Manufacturing,3.1,Manufacturing,0,117.5,Reynolds American,148.0,NC,True,False,False,False,True,na,senior,951,0,7500.5,10.0
+"San Diego, CA","San Diego, CA",Company - Private,Biotech & Pharmaceuticals,2.4,Biotech & Pharmaceuticals,0,70.5,Crown Bioscience,17.0,CA,True,False,False,False,False,na,na,468,0,750.5,0.075
+"Marietta, GA","Morrisville, NC",Company - Private,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,80.0,Q2 Solutions,8.0,GA,False,False,False,False,True,na,senior,582,0,3000.5,
+"Ithaca, NY","Morrisville, NC",Company - Private,Biotech & Pharmaceuticals,2.9,Biotech & Pharmaceuticals,0,70.0,Q2 Solutions,8.0,NY,False,False,False,False,True,na,na,609,0,3000.5,
+"Quincy, MA","Quincy, MA",Company - Private,Insurance Carriers,3.4,Insurance,0,90.0,Arbella Insurance,35.0,MA,True,False,False,True,True,data engineer,na,393,0,3000.5,0.3
+"Palo Alto, CA","Palo Alto, CA",Company - Private,K-12 Education,4.1,Education,0,111.0,CK-12 Foundation,16.0,CA,True,True,False,False,True,machine learning,na,516,0,25.5,
+"San Francisco, CA","San Francisco, CA",Company - Public,Computer Hardware & Software,3.9,Information Technology,0,138.5,Life360,15.0,CA,True,True,False,True,False,data analyst,senior,860,0,125.5,
+"Boston, MA","Springfield, MA",Company - Private,Insurance Carriers,3.6,Insurance,0,68.5,MassMutual,172.0,MA,False,False,False,False,True,data scientist,na,706,0,7500.5,10.0
+"San Francisco, CA","San Francisco, CA",Company - Private,Internet,3.9,Information Technology,0,87.5,Fivestars,12.0,CA,True,True,False,True,True,data engineer,na,541,2,350.5,0.3
+"Cambridge, MA","Brentford, United Kingdom",Company - Public,Biotech & Pharmaceuticals,3.9,Biotech & Pharmaceuticals,0,84.5,GSK,193.0,MA,False,False,False,False,False,na,senior,871,3,10000.0,10.0
+"Nashville, TN","San Francisco, CA",Company - Public,Internet,4.4,Information Technology,0,102.5,Eventbrite,17.0,TN,False,True,False,True,False,data engineer,senior,877,3,3000.5,0.3
+"Pittsburgh, PA","Pittsburgh, PA",College / University,Colleges & Universities,2.6,Education,0,73.5,Software Engineering Institute,39.0,PA,True,False,False,False,True,na,na,421,0,750.5,
+"Beavercreek, OH","Arlington, VA",Nonprofit Organization,Federal Agencies,3.6,Government,0,93.5,Riverside Research Institute,56.0,OH,False,True,False,False,False,na,na,522,0,750.5,0.075

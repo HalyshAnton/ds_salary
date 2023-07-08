@@ -4,7 +4,7 @@
 * Optimized Lasso, Xgboost and Light GBM using optuna to reach the best model.  
 
 ## Code and Resources Used 
-**Python Version:** 3.7  
+**Python Version:** 3.10  
 **Packages:** pandas, numpy, sklearn, matplotlib, xgboost, lgb, joblib   
 **Data source:** https://github.com/PlayingNumbers/ds_salary_proj 
 
